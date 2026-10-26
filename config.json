@@ -1,0 +1,40 @@
+{
+  "city": "ISTANBUL (AVRUPA)",
+  "city_label": "İstanbul (Avrupa)",
+  "cities": [],
+  "products": ["benzin", "motorin", "lpg"],
+  "price_source_url": "https://www.petrolofisi.com.tr/en/fuels-prices",
+  "news_enabled": true,
+  "news_sources": [
+    {
+      "name": "Enerji Günlüğü",
+      "url": "https://www.enerjigunlugu.net/rss/"
+    },
+    {
+      "name": "Dünya",
+      "url": "https://www.dunya.com/rss"
+    },
+    {
+      "name": "Bloomberg HT",
+      "url": "https://www.bloomberght.com/rss"
+    }
+  ],
+  "news_filter": "changes",
+  "news_max_age_days": 3,
+  "max_items": 80,
+  "state_file": "state.json",
+  "page_output": "docs/index.html",
+  "page_url": "",
+  "timezone": "Europe/Istanbul",
+  "timeout_seconds": 30,
+  "user_agent": "yakit-rss/1.0 (personal RSS feed)",
+  "prediction_enabled": true,
+  "prediction_in_feed": true,
+  "prediction_pass_through": 1.0,
+  "prediction_vat": 0.2,
+  "prediction_min_delta_tl": 0.25,
+  "prediction_products": ["benzin", "motorin"],
+  "market_history_days": 30,
+  "market_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+  "esel_note": "Eşel mobil sistemi 1 Ekim 2026 itibarıyla sona erdi. Tahminler, uluslararası ürün maliyetindeki değişimin KDV dahil tamamen pompaya yansıdığı varsayımıyla hesaplanır."
+}

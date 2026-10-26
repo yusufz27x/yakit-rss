@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Akaryakıt Fiyat Takibi · İstanbul (Avrupa)</title>
+    <link>https://www.petrolofisi.com.tr/en/fuels-prices</link>
+    <description>Güncel: Benzin 76,30 TL · Motorin 96,80 TL · LPG 41,20 TL. Son kontrol: 26.10.2026 22:09. Fiyatlar KDV dahil Petrol Ofisi tavsiye edilen fiyatlarıdır; istasyonlar arasında fark olabilir.</description>
+    <language>tr</language>
+    <lastBuildDate>Mon, 26 Oct 2026 22:09:28 +0300</lastBuildDate>
+    <generator>yakit-rss 1.0.0</generator>
+    <ttl>30</ttl>
+    <item>
+      <title>[Tahmin] Benzin · +0,53 TL zam yönünde (tahmini 76,83 TL)</title>
+      <link>https://www.petrolofisi.com.tr/en/fuels-prices</link>
+      <guid isPermaLink="false">prediction:0f9f3e9b53d0599d</guid>
+      <pubDate>Mon, 26 Oct 2026 22:09:02 +0300</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Benzin&lt;/strong&gt; için piyasa bazlı tahmin: &lt;strong&gt;+0,53 TL&lt;/strong&gt; (zam yönünde).&lt;/p&gt;&lt;p&gt;Güncel: 76,30 TL → Tahmini: 76,83 TL&lt;/p&gt;&lt;p&gt;Baz maliyet: 40,85 TL/L (26.10.2026 10:54)&lt;br&gt;Güncel maliyet: 41,29 TL/L&lt;br&gt;Kaynak: RBOB vadeli; USD/TRY: 49,76; Brent: 111,00 $&lt;/p&gt;&lt;p&gt;&lt;small&gt;Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.&lt;/small&gt;&lt;/p&gt;</description>
+      <category>Tahmin</category>
+      <source url="https://www.petrolofisi.com.tr/en/fuels-prices">yakit-rss tahmin modeli</source>
+    </item>
+    <item>
+      <title>[Tahmin] Benzin · +0,45 TL zam yönünde (tahmini 76,75 TL)</title>
+      <link>https://www.petrolofisi.com.tr/en/fuels-prices</link>
+      <guid isPermaLink="false">prediction:4cb23b7020113989</guid>
+      <pubDate>Mon, 26 Oct 2026 22:00:08 +0300</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Benzin&lt;/strong&gt; için piyasa bazlı tahmin: &lt;strong&gt;+0,45 TL&lt;/strong&gt; (zam yönünde).&lt;/p&gt;&lt;p&gt;Güncel: 76,30 TL → Tahmini: 76,75 TL&lt;/p&gt;&lt;p&gt;Baz maliyet: 40,85 TL/L (26.10.2026 10:54)&lt;br&gt;Güncel maliyet: 41,22 TL/L&lt;br&gt;Kaynak: RBOB vadeli; USD/TRY: 49,75; Brent: 110,83 $&lt;/p&gt;&lt;p&gt;&lt;small&gt;Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.&lt;/small&gt;&lt;/p&gt;</description>
+      <category>Tahmin</category>
+      <source url="https://www.petrolofisi.com.tr/en/fuels-prices">yakit-rss tahmin modeli</source>
+    </item>
+    <item>
+      <title>[Tahmin] Motorin · +0,64 TL zam yönünde (tahmini 97,44 TL)</title>
+      <link>https://www.petrolofisi.com.tr/en/fuels-prices</link>
+      <guid isPermaLink="false">prediction:2e5bd7b3e50d8bd0</guid>
+      <pubDate>Mon, 26 Oct 2026 11:28:50 +0300</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Motorin&lt;/strong&gt; için piyasa bazlı tahmin: &lt;strong&gt;+0,64 TL&lt;/strong&gt; (zam yönünde).&lt;/p&gt;&lt;p&gt;Güncel: 96,80 TL → Tahmini: 97,44 TL&lt;/p&gt;&lt;p&gt;Baz maliyet: 62,15 TL/L (26.10.2026 10:54)&lt;br&gt;Güncel maliyet: 62,69 TL/L&lt;br&gt;Kaynak: ULSD vadeli; USD/TRY: 49,76; Brent: 110,18 $&lt;/p&gt;&lt;p&gt;&lt;small&gt;Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.&lt;/small&gt;&lt;/p&gt;</description>
+      <category>Tahmin</category>
+      <source url="https://www.petrolofisi.com.tr/en/fuels-prices">yakit-rss tahmin modeli</source>
+    </item>
+    <item>
+      <title>[Tahmin] Motorin · +0,45 TL zam yönünde (tahmini 97,25 TL)</title>
+      <link>https://www.petrolofisi.com.tr/en/fuels-prices</link>
+      <guid isPermaLink="false">prediction:439bb1e0b3f73399</guid>
+      <pubDate>Mon, 26 Oct 2026 11:23:54 +0300</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Motorin&lt;/strong&gt; için piyasa bazlı tahmin: &lt;strong&gt;+0,45 TL&lt;/strong&gt; (zam yönünde).&lt;/p&gt;&lt;p&gt;Güncel: 96,80 TL → Tahmini: 97,25 TL&lt;/p&gt;&lt;p&gt;Baz maliyet: 62,15 TL/L (26.10.2026 10:54)&lt;br&gt;Güncel maliyet: 62,53 TL/L&lt;br&gt;Kaynak: ULSD vadeli; USD/TRY: 49,76; Brent: 110,16 $&lt;/p&gt;&lt;p&gt;&lt;small&gt;Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.&lt;/small&gt;&lt;/p&gt;</description>
+      <category>Tahmin</category>
+      <source url="https://www.petrolofisi.com.tr/en/fuels-prices">yakit-rss tahmin modeli</source>
+    </item>
+    <item>
+      <title>[Başlangıç] İstanbul (Avrupa) · Benzin 76,30 TL · Motorin 96,80 TL · LPG 41,20 TL</title>
+      <link>https://www.petrolofisi.com.tr/en/fuels-prices</link>
+      <guid isPermaLink="false">baseline:45eede22516b90b9</guid>
+      <pubDate>Fri, 23 Oct 2026 10:07:01 +0300</pubDate>
+      <description>&lt;p&gt;Fiyat takibi başladı. Güncel fiyatlar:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Benzin: &lt;strong&gt;76,30 TL&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Motorin: &lt;strong&gt;96,80 TL&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;LPG: &lt;strong&gt;41,20 TL&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)&lt;br&gt;Kontrol: 23.10.2026 10:07&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.petrolofisi.com.tr/en/fuels-prices"&gt;Fiyat tablosu&lt;/a&gt;&lt;/p&gt;</description>
+      <category>Fiyat</category>
+      <source url="https://www.petrolofisi.com.tr/en/fuels-prices">Petrol Ofisi</source>
+    </item>
+  </channel>
+</rss>

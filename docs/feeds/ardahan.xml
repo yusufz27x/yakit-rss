@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Akaryakıt Fiyat Takibi · Ardahan</title>
+    <link>https://www.petrolofisi.com.tr/en/fuels-prices</link>
+    <description>Güncel: Benzin 78,30 TL · Motorin 99,00 TL · LPG 42,19 TL. Son kontrol: 26.10.2026 22:09. Fiyatlar KDV dahil Petrol Ofisi tavsiye edilen fiyatlarıdır; istasyonlar arasında fark olabilir.</description>
+    <language>tr</language>
+    <lastBuildDate>Mon, 26 Oct 2026 22:09:28 +0300</lastBuildDate>
+    <generator>yakit-rss 1.0.0</generator>
+    <ttl>30</ttl>
+    <item>
+      <title>[Tahmin] Benzin · +0,39 TL zam yönünde (tahmini 78,69 TL)</title>
+      <link>https://www.petrolofisi.com.tr/en/fuels-prices</link>
+      <guid isPermaLink="false">prediction:42e7b9e1626632b8</guid>
+      <pubDate>Mon, 26 Oct 2026 22:00:08 +0300</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Benzin&lt;/strong&gt; için piyasa bazlı tahmin: &lt;strong&gt;+0,39 TL&lt;/strong&gt; (zam yönünde).&lt;/p&gt;&lt;p&gt;Güncel: 78,30 TL → Tahmini: 78,69 TL&lt;/p&gt;&lt;p&gt;Baz maliyet: 40,90 TL/L (26.10.2026 11:23)&lt;br&gt;Güncel maliyet: 41,22 TL/L&lt;br&gt;Kaynak: RBOB vadeli; USD/TRY: 49,75; Brent: 110,83 $&lt;/p&gt;&lt;p&gt;&lt;small&gt;Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.&lt;/small&gt;&lt;/p&gt;</description>
+      <category>Tahmin</category>
+      <source url="https://www.petrolofisi.com.tr/en/fuels-prices">yakit-rss tahmin modeli</source>
+    </item>
+    <item>
+      <title>[Tahmin] Motorin · -0,41 TL indirim yönünde (tahmini 98,59 TL)</title>
+      <link>https://www.petrolofisi.com.tr/en/fuels-prices</link>
+      <guid isPermaLink="false">prediction:8a963d9bd4a0ea3d</guid>
+      <pubDate>Mon, 26 Oct 2026 22:00:08 +0300</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Motorin&lt;/strong&gt; için piyasa bazlı tahmin: &lt;strong&gt;-0,41 TL&lt;/strong&gt; (indirim yönünde).&lt;/p&gt;&lt;p&gt;Güncel: 99,00 TL → Tahmini: 98,59 TL&lt;/p&gt;&lt;p&gt;Baz maliyet: 62,53 TL/L (26.10.2026 11:23)&lt;br&gt;Güncel maliyet: 62,19 TL/L&lt;br&gt;Kaynak: ULSD vadeli; USD/TRY: 49,75; Brent: 110,83 $&lt;/p&gt;&lt;p&gt;&lt;small&gt;Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.&lt;/small&gt;&lt;/p&gt;</description>
+      <category>Tahmin</category>
+      <source url="https://www.petrolofisi.com.tr/en/fuels-prices">yakit-rss tahmin modeli</source>
+    </item>
+    <item>
+      <title>[Başlangıç] Ardahan · Benzin 78,30 TL · Motorin 99,00 TL · LPG 42,19 TL</title>
+      <link>https://www.petrolofisi.com.tr/en/fuels-prices</link>
+      <guid isPermaLink="false">baseline:14852f2e27e99d38</guid>
+      <pubDate>Mon, 26 Oct 2026 11:23:54 +0300</pubDate>
+      <description>&lt;p&gt;Fiyat takibi başladı. Güncel fiyatlar:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Benzin: &lt;strong&gt;78,30 TL&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Motorin: &lt;strong&gt;99,00 TL&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;LPG: &lt;strong&gt;42,19 TL&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)&lt;br&gt;Kontrol: 26.10.2026 11:23&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.petrolofisi.com.tr/en/fuels-prices"&gt;Fiyat tablosu&lt;/a&gt;&lt;/p&gt;</description>
+      <category>Fiyat</category>
+      <source url="https://www.petrolofisi.com.tr/en/fuels-prices">Petrol Ofisi</source>
+    </item>
+  </channel>
+</rss>
