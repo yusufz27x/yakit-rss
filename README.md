@@ -267,24 +267,24 @@ regenerates all per-city feeds and the overview page, commits `state.json` when
 it changes, and deploys `docs/` to GitHub Pages. It also runs on every push to
 `main`/`master`, so the first push publishes immediately.
 
-From this directory:
+1. Create an empty GitHub repository (no README, no `.gitignore`, no license).
+2. From this directory, initialize and push:
 
-```bash
-git init -b main
-git add .
-git commit -m "Initial fuel price tracker"
-git remote add origin https://github.com/YOURUSER/yakit-rss.git
-git push -u origin main
-```
+   ```bash
+   git init -b main
+   git add .
+   git commit -m "Initial fuel price tracker"
+   git remote add origin https://github.com/YOURUSER/yakit-rss.git
+   git push -u origin main
+   ```
 
-(Or create the repository first with
-`gh repo create YOURUSER/yakit-rss --public --source=. --remote=origin --push`.)
+   Or, with the GitHub CLI:
+   `gh repo create YOURUSER/yakit-rss --public --source=. --remote=origin --push`.
 
-1. Create the empty GitHub repository and push the commands above.
-2. In **Settings → Pages**, set **Source** to **GitHub Actions**. The workflow
+3. In **Settings → Pages**, set **Source** to **GitHub Actions**. The workflow
    also tries to enable Pages automatically, but setting it manually avoids
    permission surprises.
-3. In `config.json`, set the public page URL and commit the change:
+4. In `config.json`, set the public page URL and commit the change:
 
    ```json
    "page_url": "https://YOURUSER.github.io/yakit-rss/"
@@ -293,9 +293,9 @@ git push -u origin main
    If the repository is named `YOURUSER.github.io`, use
    `https://YOURUSER.github.io/` instead.
 
-4. Push. The workflow runs automatically on `main`/`master`; you can also run it
+5. Push. The workflow runs automatically on `main`/`master`; you can also run it
    manually from the **Actions** tab (**Update fuel feed → Run workflow**).
-5. Open the overview at `https://YOURUSER.github.io/yakit-rss/` and use the city
+6. Open the overview at `https://YOURUSER.github.io/yakit-rss/` and use the city
    selector. Each city has
    `https://YOURUSER.github.io/yakit-rss/feeds/<slug>.xml` (for example
    `/feeds/ankara.xml`); the RSS button follows the selected city.
