@@ -264,9 +264,23 @@ minute.
 
 The included workflow (`.github/workflows/feed.yml`) runs every 30 minutes,
 regenerates all per-city feeds and the overview page, commits `state.json` when
-it changes, and deploys `docs/` to GitHub Pages.
+it changes, and deploys `docs/` to GitHub Pages. It also runs on every push to
+`main`/`master`, so the first push publishes immediately.
 
-1. Create a repository and push this directory.
+From this directory:
+
+```bash
+git init -b main
+git add .
+git commit -m "Initial fuel price tracker"
+git remote add origin https://github.com/YOURUSER/yakit-rss.git
+git push -u origin main
+```
+
+(Or create the repository first with
+`gh repo create YOURUSER/yakit-rss --public --source=. --remote=origin --push`.)
+
+1. Create the empty GitHub repository and push the commands above.
 2. In **Settings → Pages**, set **Source** to **GitHub Actions**. The workflow
    also tries to enable Pages automatically, but setting it manually avoids
    permission surprises.
