@@ -1566,6 +1566,16 @@
   "city_items": {
     "ISTANBUL (AVRUPA)": [
       {
+        "id": "prediction:4d5a344e1702bb8e",
+        "title": "[Tahmin] Motorin · -0,54 TL indirim yönünde (tahmini 96,26 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 96,80 TL → Tahmini: 96,26 TL</p><p>Baz maliyet: 62,15 TL/L (26.10.2026 10:54)<br>Güncel maliyet: 61,70 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 49,77; Brent: 109,63 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-10-27T08:25:04.800367+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
+      {
         "id": "prediction:59a7d1e569e44fc3",
         "title": "[Tahmin] Benzin · +0,29 TL zam yönünde (tahmini 76,59 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
@@ -6181,7 +6191,8 @@
     "VAN|motorin|2026-10-27|indirim|1.0": "2026-10-27T03:16:26.138380+03:00",
     "YALOVA|motorin|2026-10-27|indirim|1.0": "2026-10-27T03:16:26.138380+03:00",
     "YOZGAT|motorin|2026-10-27|indirim|1.0": "2026-10-27T03:16:26.138380+03:00",
-    "ZONGULDAK|motorin|2026-10-27|indirim|1.0": "2026-10-27T03:16:26.138380+03:00"
+    "ZONGULDAK|motorin|2026-10-27|indirim|1.0": "2026-10-27T03:16:26.138380+03:00",
+    "ISTANBUL (AVRUPA)|motorin|2026-10-27|indirim|1.0": "2026-10-27T08:25:04.800367+03:00"
   },
-  "updated_at": "2026-10-27T03:16:26.138380+03:00"
+  "updated_at": "2026-10-27T08:25:04.800367+03:00"
 }
