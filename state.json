@@ -11571,6 +11571,16 @@
   },
   "news_items": [
     {
+      "id": "news:7a01a1af0a611bd7",
+      "title": "[Haber] Benzin ve motorin zammı gerçekleşti",
+      "link": "https://www.enerjigunlugu.net/benzin-ve-motorin-zammi-gerceklesti-70395h.htm",
+      "description": "<p><strong>Benzin ve motorin zammı gerçekleşti</strong></p><p>Kaynak: Enerji Günlüğü · 31.10.2026 15:29</p><p><a href=\"https://www.enerjigunlugu.net/benzin-ve-motorin-zammi-gerceklesti-70395h.htm\">Haberi oku</a></p><p><small>Bu bir haber başlığıdır; fiyat değişikliği kesinleşmemiş veya iptal edilmiş olabilir. Kesinleşen fiyatlar Petrol Ofisi tablosundan ayrıca yayımlanır.</small></p>",
+      "published": "2026-10-31T15:29:00+03:00",
+      "category": "Haber",
+      "source": "Enerji Günlüğü",
+      "source_url": "https://www.enerjigunlugu.net/rss/"
+    },
+    {
       "id": "news:f071c4257ffafe7f",
       "title": "[Haber] Benzin ve motorine zam bekleniyor",
       "link": "https://www.enerjigunlugu.net/benzin-ve-motorine-zam-bekleniyor-70391h.htm",
@@ -11593,7 +11603,8 @@
   ],
   "news_events": {
     "benzin|zam|2026-10-30|expected": "2026-10-30T17:05:00+03:00",
-    "lpg|zam|2026-10-30|expected": "2026-10-30T17:00:00+03:00"
+    "lpg|zam|2026-10-30|expected": "2026-10-30T17:00:00+03:00",
+    "benzin|zam|2026-10-31|other": "2026-10-31T15:29:00+03:00"
   },
   "prediction_items": {
     "ISTANBUL (AVRUPA)|motorin|2026-10-26|zam|0.5": "2026-10-26T11:23:54.125308+03:00",
@@ -13730,5 +13741,5 @@
     "ZONGULDAK|benzin|2026-10-31|zam|1.5": "2026-10-31T07:42:04.089200+03:00",
     "ZONGULDAK|motorin|2026-10-31|zam|2.0": "2026-10-31T07:42:04.089200+03:00"
   },
-  "updated_at": "2026-10-31T07:42:04.089200+03:00"
+  "updated_at": "2026-10-31T18:58:23.277933+03:00"
 }
