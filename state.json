@@ -11571,6 +11571,16 @@
   },
   "news_items": [
     {
+      "id": "news:891d75d38a928561",
+      "title": "[Haber] Çifte enerji hamlesi: Benzinde ÖTV sıfırlandı, elektriğe indirim geldi",
+      "link": "https://www.dunya.com/enerji/cifte-enerji-hamlesi-benzinde-otv-sifirlandi-elektrige-indirim-geldi-haberi-846009",
+      "description": "<p><strong>Çifte enerji hamlesi: Benzinde ÖTV sıfırlandı, elektriğe indirim geldi</strong></p><p>Kaynak: Dünya · 01.11.2026 16:16</p><p><a href=\"https://www.dunya.com/enerji/cifte-enerji-hamlesi-benzinde-otv-sifirlandi-elektrige-indirim-geldi-haberi-846009\">Haberi oku</a></p><p><small>Bu bir haber başlığıdır; fiyat değişikliği kesinleşmemiş veya iptal edilmiş olabilir. Kesinleşen fiyatlar Petrol Ofisi tablosundan ayrıca yayımlanır.</small></p>",
+      "published": "2026-11-01T16:16:00+03:00",
+      "category": "Haber",
+      "source": "Dünya",
+      "source_url": "https://www.dunya.com/rss"
+    },
+    {
       "id": "news:7a01a1af0a611bd7",
       "title": "[Haber] Benzin ve motorin zammı gerçekleşti",
       "link": "https://www.enerjigunlugu.net/benzin-ve-motorin-zammi-gerceklesti-70395h.htm",
@@ -11604,7 +11614,8 @@
   "news_events": {
     "benzin|zam|2026-10-30|expected": "2026-10-30T17:05:00+03:00",
     "lpg|zam|2026-10-30|expected": "2026-10-30T17:00:00+03:00",
-    "benzin|zam|2026-10-31|other": "2026-10-31T15:29:00+03:00"
+    "benzin|zam|2026-10-31|other": "2026-10-31T15:29:00+03:00",
+    "benzin|indirim|2026-11-01|confirmed": "2026-11-01T16:16:00+03:00"
   },
   "prediction_items": {
     "ISTANBUL (AVRUPA)|motorin|2026-10-26|zam|0.5": "2026-10-26T11:23:54.125308+03:00",
@@ -13741,5 +13752,5 @@
     "ZONGULDAK|benzin|2026-10-31|zam|1.5": "2026-10-31T07:42:04.089200+03:00",
     "ZONGULDAK|motorin|2026-10-31|zam|2.0": "2026-10-31T07:42:04.089200+03:00"
   },
-  "updated_at": "2026-11-01T02:10:26.234792+03:00"
+  "updated_at": "2026-11-01T19:38:26.846995+03:00"
 }
