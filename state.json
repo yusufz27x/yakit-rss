@@ -11571,6 +11571,16 @@
   },
   "news_items": [
     {
+      "id": "news:3b599903f1ff176f",
+      "title": "[Haber] Motorine indirim geldi",
+      "link": "https://www.bloomberght.com/motorine-indirim-geldi-3793870",
+      "description": "<p><strong>Motorine indirim geldi</strong></p><p>Kaynak: Bloomberg HT · 07.11.2026 10:38</p><p><a href=\"https://www.bloomberght.com/motorine-indirim-geldi-3793870\">Haberi oku</a></p><p><small>Bu bir haber başlığıdır; fiyat değişikliği kesinleşmemiş veya iptal edilmiş olabilir. Kesinleşen fiyatlar Petrol Ofisi tablosundan ayrıca yayımlanır.</small></p>",
+      "published": "2026-11-07T10:38:44+03:00",
+      "category": "Haber",
+      "source": "Bloomberg HT",
+      "source_url": "https://www.bloomberght.com/rss"
+    },
+    {
       "id": "news:8a5cf0472d8e3946",
       "title": "[Haber] Motorinde bu gece indirim var",
       "link": "https://www.enerjigunlugu.net/motorinde-bu-gece-indirim-var-70475h.htm",
@@ -11670,7 +11680,8 @@
     "lpg|zam|2026-11-03|other": "2026-11-03T07:22:00+03:00",
     "benzin|indirim|2026-11-05|other": "2026-11-05T12:50:00+03:00",
     "motorin|indirim|2026-11-06|other": "2026-11-06T11:06:00+03:00",
-    "benzin|indirim|2026-11-06|confirmed": "2026-11-06T10:40:59+03:00"
+    "benzin|indirim|2026-11-06|confirmed": "2026-11-06T10:40:59+03:00",
+    "motorin|indirim|2026-11-07|confirmed": "2026-11-07T10:38:44+03:00"
   },
   "prediction_items": {
     "ISTANBUL (AVRUPA)|motorin|2026-10-26|zam|0.5": "2026-10-26T11:23:54.125308+03:00",
@@ -15916,5 +15927,5 @@
     "ZONGULDAK|benzin|2026-11-06|indirim|0.5": "2026-11-06T17:30:28.723270+03:00",
     "ZONGULDAK|motorin|2026-11-06|indirim|0.5": "2026-11-06T17:30:28.723270+03:00"
   },
-  "updated_at": "2026-11-07T03:41:56.300810+03:00"
+  "updated_at": "2026-11-07T16:47:12.245631+03:00"
 }
