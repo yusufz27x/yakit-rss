@@ -11571,6 +11571,16 @@
   },
   "news_items": [
     {
+      "id": "news:40034f308025eb12",
+      "title": "[Haber] Benzine indirim geldi",
+      "link": "https://www.bloomberght.com/benzine-indirim-geldi-3794274",
+      "description": "<p><strong>Benzine indirim geldi</strong></p><p>Kaynak: Bloomberg HT · 12.11.2026 09:36</p><p><a href=\"https://www.bloomberght.com/benzine-indirim-geldi-3794274\">Haberi oku</a></p><p><small>Bu bir haber başlığıdır; fiyat değişikliği kesinleşmemiş veya iptal edilmiş olabilir. Kesinleşen fiyatlar Petrol Ofisi tablosundan ayrıca yayımlanır.</small></p>",
+      "published": "2026-11-12T09:36:12+03:00",
+      "category": "Haber",
+      "source": "Bloomberg HT",
+      "source_url": "https://www.bloomberght.com/rss"
+    },
+    {
       "id": "news:edac6ad620f92fe0",
       "title": "[Haber] Benzin fiyatlarında indirim beklentisi",
       "link": "https://www.enerjigunlugu.net/benzin-fiyatlarinda-indirim-beklentisi-70534h.htm",
@@ -11692,7 +11702,8 @@
     "motorin|indirim|2026-11-06|other": "2026-11-06T11:06:00+03:00",
     "benzin|indirim|2026-11-06|confirmed": "2026-11-06T10:40:59+03:00",
     "motorin|indirim|2026-11-07|confirmed": "2026-11-07T10:38:44+03:00",
-    "benzin|indirim|2026-11-11|other": "2026-11-11T09:50:00+03:00"
+    "benzin|indirim|2026-11-11|other": "2026-11-11T09:50:00+03:00",
+    "benzin|indirim|2026-11-12|confirmed": "2026-11-12T09:36:12+03:00"
   },
   "prediction_items": {
     "ADANA|motorin|2026-10-29|indirim|0.5": "2026-10-29T12:36:21.989587+03:00",
@@ -15969,5 +15980,5 @@
     "TOKAT|motorin|2026-11-12|indirim|2.0": "2026-11-12T03:13:54.466425+03:00",
     "TUNCELI|motorin|2026-11-12|indirim|2.0": "2026-11-12T03:13:54.466425+03:00"
   },
-  "updated_at": "2026-11-12T03:13:54.466425+03:00"
+  "updated_at": "2026-11-12T10:33:43.692161+03:00"
 }
