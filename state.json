@@ -1566,6 +1566,16 @@
   "city_items": {
     "ISTANBUL (AVRUPA)": [
       {
+        "id": "prediction:2507b37e35a5aa4d",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 94,35 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 95,20 TL → Tahmini: 94,35 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
+      {
         "id": "prediction:69ebd2eaecc2649e",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 71,63 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
@@ -1674,19 +1684,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:fda3353f77cdecdd",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 94,54 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 95,20 TL → Tahmini: 94,54 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ADANA": [
+      {
+        "id": "prediction:342aa591c9847c7d",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,23 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,20 TL → Tahmini: 98,23 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:a93785dcd430d334",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,43 TL)",
@@ -1796,19 +1806,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:f897bafd83a3c4ec",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,25 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,00 TL → Tahmini: 73,25 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ADIYAMAN": [
+      {
+        "id": "prediction:4a709cc7f1ee72e7",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,63 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,60 TL → Tahmini: 98,63 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:16f5ee97d76b37a0",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,83 TL)",
@@ -1918,19 +1928,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:1020c487937ed9ec",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,65 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,40 TL → Tahmini: 73,65 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "AFYON": [
+      {
+        "id": "prediction:ba091755a6b09455",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 96,65 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 97,50 TL → Tahmini: 96,65 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:18849b1ff7436a31",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,73 TL)",
@@ -2040,19 +2050,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:f4b92346ce852084",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 96,84 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 97,50 TL → Tahmini: 96,84 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "AGRI": [
+      {
+        "id": "prediction:0cc8f4ebf3a6af65",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 99,03 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 98,00 TL → Tahmini: 99,03 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:146857b9b82965d2",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 74,23 TL)",
@@ -2162,19 +2172,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:3d2cfeee52f7d217",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 74,05 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,80 TL → Tahmini: 74,05 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "AKSARAY": [
+      {
+        "id": "prediction:9191959c393f1cae",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,33 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,30 TL → Tahmini: 98,33 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:bc1d25dfee3912eb",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,53 TL)",
@@ -2284,19 +2294,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:b95c3548acc3e3a9",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,35 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,10 TL → Tahmini: 73,35 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "AMASYA": [
+      {
+        "id": "prediction:b14cf220658f0f4c",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 96,05 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 96,90 TL → Tahmini: 96,05 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:9810cff1d52d6ebe",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,23 TL)",
@@ -2406,19 +2416,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:53005a3813f4f3a6",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 96,24 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 96,90 TL → Tahmini: 96,24 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ANKARA": [
+      {
+        "id": "prediction:02a2b9bd138b6765",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 97,43 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 96,40 TL → Tahmini: 97,43 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:a4b673cdd495cd4c",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 72,63 TL)",
@@ -2528,19 +2538,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:bd3b651e8de541f7",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 72,45 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,20 TL → Tahmini: 72,45 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ANTALYA": [
+      {
+        "id": "prediction:ddfe00e5224864ed",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 96,75 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 97,60 TL → Tahmini: 96,75 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:2aee27ac2409cd23",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,83 TL)",
@@ -2650,19 +2660,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:c0cdf3d4c8e8932f",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 96,94 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 97,60 TL → Tahmini: 96,94 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ARDAHAN": [
+      {
+        "id": "prediction:506380d5b73d9c40",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,53 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,50 TL → Tahmini: 98,53 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:e05d007644e3577f",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,73 TL)",
@@ -2772,19 +2782,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:85c6c88c40c4d047",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,55 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,30 TL → Tahmini: 73,55 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ARTVIN": [
+      {
+        "id": "prediction:ed4f6b6361d8c29c",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,33 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,30 TL → Tahmini: 98,33 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:d521be8765c01f4d",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,53 TL)",
@@ -2894,19 +2904,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:b7735e12b03d5596",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,35 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,10 TL → Tahmini: 73,35 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "AYDIN": [
+      {
+        "id": "prediction:d7ed415cd440f8e7",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 96,05 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 96,90 TL → Tahmini: 96,05 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:e246cef2d7b5e7ff",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,13 TL)",
@@ -3016,19 +3026,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:59be25efdfa0bb5b",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 96,24 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 96,90 TL → Tahmini: 96,24 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "BALIKESIR": [
+      {
+        "id": "prediction:b7a28c2cda106890",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 96,15 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 97,00 TL → Tahmini: 96,15 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:c39f981d0362015d",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,23 TL)",
@@ -3138,19 +3148,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:0930db9124c074a1",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 96,34 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 97,00 TL → Tahmini: 96,34 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "BARTIN": [
+      {
+        "id": "prediction:5698a6f060d8b861",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 97,63 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 96,60 TL → Tahmini: 97,63 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:5caec8aa7d42eb61",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,03 TL)",
@@ -3260,19 +3270,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:a14ba8dfae700d0e",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 72,85 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,60 TL → Tahmini: 72,85 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "BATMAN": [
+      {
+        "id": "prediction:63a0b03f44ff522e",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,93 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,90 TL → Tahmini: 98,93 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:548cd334103d79fc",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 74,03 TL)",
@@ -3382,19 +3392,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:c5a192249585fcef",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,85 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,60 TL → Tahmini: 73,85 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "BAYBURT": [
+      {
+        "id": "prediction:8c2b3edda722d885",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,33 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,30 TL → Tahmini: 98,33 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:a6ccf49d7c15cd1f",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,53 TL)",
@@ -3504,19 +3514,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:cae33faa7ff3a720",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,35 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,10 TL → Tahmini: 73,35 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "BILECIK": [
+      {
+        "id": "prediction:0d11e0d9e8777ded",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 97,13 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 96,10 TL → Tahmini: 97,13 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:02a3b93ca82ca7b1",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 72,53 TL)",
@@ -3626,19 +3636,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:592688bf7fe207f7",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 72,35 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,10 TL → Tahmini: 72,35 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "BINGOL": [
+      {
+        "id": "prediction:1f6c684aa1187b92",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 99,03 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 98,00 TL → Tahmini: 99,03 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:3f2080fed229236e",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 74,13 TL)",
@@ -3748,19 +3758,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:35985ce1359de593",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,95 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,70 TL → Tahmini: 73,95 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "BITLIS": [
+      {
+        "id": "prediction:ef6703b9478a188f",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 97,15 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 98,00 TL → Tahmini: 97,15 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:2fc7ea2ed25ee544",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 74,23 TL)",
@@ -3870,19 +3880,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:efcc6bb9c253898a",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 97,34 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 98,00 TL → Tahmini: 97,34 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "BOLU": [
+      {
+        "id": "prediction:823a844e38d0aa8f",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 97,23 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 96,20 TL → Tahmini: 97,23 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:c880fcd8bedfba7a",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 72,63 TL)",
@@ -3992,19 +4002,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:422a9e09ac86de65",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 72,45 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,20 TL → Tahmini: 72,45 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "BURDUR": [
+      {
+        "id": "prediction:46ecc8e0ba9fe134",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 96,55 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 97,40 TL → Tahmini: 96,55 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:0c728f2bcea79b57",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,63 TL)",
@@ -4114,19 +4124,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:bf7240c5d00aa2ae",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 96,74 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 97,40 TL → Tahmini: 96,74 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "BURSA": [
+      {
+        "id": "prediction:430c404466dc59ee",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 97,33 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 96,30 TL → Tahmini: 97,33 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:a5b32bd9694fd39a",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 72,73 TL)",
@@ -4236,19 +4246,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:d0cbd7158dfee6b2",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 72,55 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,30 TL → Tahmini: 72,55 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "CANAKKALE": [
+      {
+        "id": "prediction:b0caf60c5ab9f1d7",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 96,15 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 97,00 TL → Tahmini: 96,15 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:d4459b87d397f9c1",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,23 TL)",
@@ -4358,19 +4368,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:5d61ae50677f0e1c",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 96,34 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 97,00 TL → Tahmini: 96,34 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "CANKIRI": [
+      {
+        "id": "prediction:3387abdfb3c592f9",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 97,83 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 96,80 TL → Tahmini: 97,83 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:7ff6d935f2bb46ef",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,03 TL)",
@@ -4480,19 +4490,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:1daa1e8731148d4e",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 72,85 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,60 TL → Tahmini: 72,85 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "CORUM": [
+      {
+        "id": "prediction:53c36a3957d12827",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,03 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,00 TL → Tahmini: 98,03 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:ae91b8c48ce35753",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,23 TL)",
@@ -4602,19 +4612,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:cad1f008097c38a6",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,05 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,80 TL → Tahmini: 73,05 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "DENIZLI": [
+      {
+        "id": "prediction:7238afde9d234a77",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,23 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,20 TL → Tahmini: 98,23 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:be00c55b672562d6",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,43 TL)",
@@ -4724,19 +4734,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:9454d164b496cd62",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,25 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,00 TL → Tahmini: 73,25 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "DIYARBAKIR": [
+      {
+        "id": "prediction:514175b7f4d2215d",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,93 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,90 TL → Tahmini: 98,93 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:a8123e93807cc3e1",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 74,03 TL)",
@@ -4846,19 +4856,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:6857c71d2569257c",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,85 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,60 TL → Tahmini: 73,85 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "DUZCE": [
+      {
+        "id": "prediction:a1e53790751f444d",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 97,13 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 96,10 TL → Tahmini: 97,13 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:2c5b49db94535dad",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 72,53 TL)",
@@ -4968,19 +4978,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:f69eff6e3a8f226d",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 72,35 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,10 TL → Tahmini: 72,35 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "EDIRNE": [
+      {
+        "id": "prediction:f7e2e8f63da7ae77",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 95,55 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 96,40 TL → Tahmini: 95,55 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:9404d705b0a8ed91",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 72,73 TL)",
@@ -5090,19 +5100,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:0da515919ce6df2b",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 95,74 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 96,40 TL → Tahmini: 95,74 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ELAZIG": [
+      {
+        "id": "prediction:e6031174f5c7e9fe",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 97,15 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 98,00 TL → Tahmini: 97,15 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:34dce56710cfd7ad",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 74,23 TL)",
@@ -5212,19 +5222,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:d7658aaf2bab5f7c",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 97,34 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 98,00 TL → Tahmini: 97,34 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ERZINCAN": [
+      {
+        "id": "prediction:6bbc178e96da6b26",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,43 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,40 TL → Tahmini: 98,43 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:2b0214e944741fdc",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,63 TL)",
@@ -5334,19 +5344,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:f389b195f7476b8a",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,45 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,20 TL → Tahmini: 73,45 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ERZURUM": [
+      {
+        "id": "prediction:f03f3b0bf3df9dac",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,43 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,40 TL → Tahmini: 98,43 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:0a204e8685d1adf2",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,63 TL)",
@@ -5456,19 +5466,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:904ea9b2f6e66ffc",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,45 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,20 TL → Tahmini: 73,45 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ESKISEHIR": [
+      {
+        "id": "prediction:a352979e2616da28",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 97,43 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 96,40 TL → Tahmini: 97,43 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:5575c3ef1e58ee03",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 72,83 TL)",
@@ -5578,19 +5588,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:4c25cde99315cbf1",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 72,65 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,40 TL → Tahmini: 72,65 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "GAZIANTEP": [
+      {
+        "id": "prediction:1ece2550b28bc9e5",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,33 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,30 TL → Tahmini: 98,33 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:d861319b3fe2fd91",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,53 TL)",
@@ -5700,19 +5710,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:90ed6b6d3918637b",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,35 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,10 TL → Tahmini: 73,35 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "GIRESUN": [
+      {
+        "id": "prediction:b5bcbbca8d626a5e",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,23 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,20 TL → Tahmini: 98,23 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:48c97704268b8c41",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,43 TL)",
@@ -5822,19 +5832,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:f8d63d9617ed18a8",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,25 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,00 TL → Tahmini: 73,25 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "GUMUSHANE": [
+      {
+        "id": "prediction:bf479a441f49c69f",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,13 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,10 TL → Tahmini: 98,13 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:75cdbb5371d7ec19",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,33 TL)",
@@ -5944,19 +5954,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:bf6f76cb677d9d41",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,15 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,90 TL → Tahmini: 73,15 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "HAKKARI": [
+      {
+        "id": "prediction:1a8c7922472875ea",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 97,15 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 98,00 TL → Tahmini: 97,15 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:7019a4e7e9eb75ee",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 74,23 TL)",
@@ -6066,19 +6076,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:48d0ce022e401365",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 97,34 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 98,00 TL → Tahmini: 97,34 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "HATAY": [
+      {
+        "id": "prediction:6a9afa501ddf809d",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,13 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,10 TL → Tahmini: 98,13 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:809fd6492faa4584",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,33 TL)",
@@ -6188,19 +6198,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:a7bb74295704efb7",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,15 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,90 TL → Tahmini: 73,15 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "IGDIR": [
+      {
+        "id": "prediction:f113ed70f4ee5ca8",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 99,03 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 98,00 TL → Tahmini: 99,03 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:caf37ea08cbc1c88",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 74,23 TL)",
@@ -6310,19 +6320,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:38b8f48f34b1eeb6",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 74,05 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,80 TL → Tahmini: 74,05 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ISPARTA": [
+      {
+        "id": "prediction:4b093782a29c3d46",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 96,65 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 97,50 TL → Tahmini: 96,65 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:6c7d6c2b1f9e38e8",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,73 TL)",
@@ -6432,19 +6442,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:d5cc29de74c76cc4",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 96,84 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 97,50 TL → Tahmini: 96,84 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ISTANBUL (ANADOLU)": [
+      {
+        "id": "prediction:2b2bea5791b31b0b",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 96,13 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 95,10 TL → Tahmini: 96,13 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:f18bfe8c8ad4a560",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 71,43 TL)",
@@ -6554,19 +6564,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:990fe10116e5b885",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 71,25 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 71,00 TL → Tahmini: 71,25 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "IZMIR": [
+      {
+        "id": "prediction:0cf62bdda8005b85",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 95,75 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 96,60 TL → Tahmini: 95,75 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:2bc36e8fc27f1abf",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 72,83 TL)",
@@ -6676,19 +6686,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:114980aa2c668dad",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 95,94 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 96,60 TL → Tahmini: 95,94 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KAHRAMANMARAS": [
+      {
+        "id": "prediction:7d2e9aefefcbb2a5",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,43 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,40 TL → Tahmini: 98,43 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:de17a0c4e4647704",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,63 TL)",
@@ -6798,19 +6808,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:91aef6b6d8164a81",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,45 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,20 TL → Tahmini: 73,45 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KARABUK": [
+      {
+        "id": "prediction:1dc144083e8f1a93",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 97,63 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 96,60 TL → Tahmini: 97,63 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:a373fd1db66dae4f",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,03 TL)",
@@ -6920,19 +6930,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:fddffdb2b673ba23",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 72,85 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,60 TL → Tahmini: 72,85 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KARAMAN": [
+      {
+        "id": "prediction:85f3e598b5d3c967",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,33 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,30 TL → Tahmini: 98,33 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:b60b3091a1230582",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,53 TL)",
@@ -7042,19 +7052,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:9a452696cc34c945",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,35 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,10 TL → Tahmini: 73,35 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KARS": [
+      {
+        "id": "prediction:5afdc37c8b34587d",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,53 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,50 TL → Tahmini: 98,53 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:f52c0f77794e91e8",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,73 TL)",
@@ -7164,19 +7174,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:7d39dc13e5ee4c61",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,55 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,30 TL → Tahmini: 73,55 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KASTAMONU": [
+      {
+        "id": "prediction:25151bbcb20a7b09",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,13 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,10 TL → Tahmini: 98,13 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:a218639d08079a60",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,33 TL)",
@@ -7286,19 +7296,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:09dfcaa14879f41b",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,15 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,90 TL → Tahmini: 73,15 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KAYSERI": [
+      {
+        "id": "prediction:f2662e9f9c4a9fa1",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,43 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,40 TL → Tahmini: 98,43 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:d8024d4d78ea580b",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,63 TL)",
@@ -7408,19 +7418,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:0873b72d0a997aff",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,45 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,20 TL → Tahmini: 73,45 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KILIS": [
+      {
+        "id": "prediction:7b2494ec51cc9267",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,13 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,10 TL → Tahmini: 98,13 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:5a9854c52a6ec6c5",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,33 TL)",
@@ -7530,19 +7540,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:493eae0695361e4b",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,15 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,90 TL → Tahmini: 73,15 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KIRIKKALE": [
+      {
+        "id": "prediction:6d1e7ce8a86d2912",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 97,73 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 96,70 TL → Tahmini: 97,73 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:619dd547244a652f",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 72,93 TL)",
@@ -7652,19 +7662,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:eed88cb4d5cbcd65",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 72,75 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,50 TL → Tahmini: 72,75 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KIRKLARELI": [
+      {
+        "id": "prediction:12b62c706252e74a",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 95,55 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 96,40 TL → Tahmini: 95,55 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:3715921bf08b6577",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 72,73 TL)",
@@ -7774,19 +7784,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:b5e43e33324ba65c",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 95,74 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 96,40 TL → Tahmini: 95,74 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KIRSEHIR": [
+      {
+        "id": "prediction:d9ca4230e84124da",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 97,73 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 96,70 TL → Tahmini: 97,73 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:869549470f6f790a",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 72,93 TL)",
@@ -7896,19 +7906,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:9514d0da0a77332d",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 72,75 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,50 TL → Tahmini: 72,75 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KOCAELI": [
+      {
+        "id": "prediction:8f59f4c378649517",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 96,63 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 95,60 TL → Tahmini: 96,63 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:667f913d85a71f85",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 72,03 TL)",
@@ -8018,19 +8028,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:6499f9141f47dfbc",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 71,85 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 71,60 TL → Tahmini: 71,85 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KONYA": [
+      {
+        "id": "prediction:d7d4f143b5e0ac25",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 96,55 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 97,40 TL → Tahmini: 96,55 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:8a7736de83cc117a",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,63 TL)",
@@ -8140,19 +8150,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:682a95ee7063f1e8",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 96,74 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 97,40 TL → Tahmini: 96,74 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KUTAHYA": [
+      {
+        "id": "prediction:0d983f9226e21d0a",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,13 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,10 TL → Tahmini: 98,13 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:d93da07203f8c742",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,53 TL)",
@@ -8262,19 +8272,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:1c86fce7f843f357",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,35 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,10 TL → Tahmini: 73,35 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "MALATYA": [
+      {
+        "id": "prediction:5b5df50cc075ee47",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,63 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,60 TL → Tahmini: 98,63 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:eff803cf431b26da",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,83 TL)",
@@ -8384,19 +8394,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:a8aad1fca6a1c169",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,65 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,40 TL → Tahmini: 73,65 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "MANISA": [
+      {
+        "id": "prediction:9350d42d6d9b47bf",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 95,85 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 96,70 TL → Tahmini: 95,85 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:438f6871f9cf8152",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 72,93 TL)",
@@ -8506,19 +8516,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:1dd9cf7709b896cf",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 96,04 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 96,70 TL → Tahmini: 96,04 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "MARDIN": [
+      {
+        "id": "prediction:5395183d057b6e2f",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,93 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,90 TL → Tahmini: 98,93 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:529be2af5c4fb0f9",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 74,03 TL)",
@@ -8628,19 +8638,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:2fc3bf7631983b8c",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,85 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,60 TL → Tahmini: 73,85 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "MERSIN": [
+      {
+        "id": "prediction:dd46b663decc8d22",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,23 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,20 TL → Tahmini: 98,23 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:c642ff582d623774",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,43 TL)",
@@ -8750,19 +8760,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:45c8cd3830221564",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,25 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,00 TL → Tahmini: 73,25 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "MUGLA": [
+      {
+        "id": "prediction:ce9134e9c34b9ab8",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,23 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,20 TL → Tahmini: 98,23 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:c08a4bf2fb771e41",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,43 TL)",
@@ -8872,19 +8882,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:162bca88c21c3004",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,25 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,00 TL → Tahmini: 73,25 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "MUS": [
+      {
+        "id": "prediction:776e66dd8d6b73e1",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 97,15 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 98,00 TL → Tahmini: 97,15 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:8b19dfea34245cc2",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 74,23 TL)",
@@ -8994,19 +9004,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:0ce8a47e20b00e10",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 97,34 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 98,00 TL → Tahmini: 97,34 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "NEVSEHIR": [
+      {
+        "id": "prediction:72539829ac775ca8",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,33 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,30 TL → Tahmini: 98,33 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:6822531ae396e5f1",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,53 TL)",
@@ -9116,19 +9126,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:175fe6173b322546",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,35 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,10 TL → Tahmini: 73,35 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "NIGDE": [
+      {
+        "id": "prediction:7ed81ee5b4937313",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,23 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,20 TL → Tahmini: 98,23 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:8a3969a1072ce862",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,43 TL)",
@@ -9238,19 +9248,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:fa6465b7bfe91c57",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,25 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,00 TL → Tahmini: 73,25 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ORDU": [
+      {
+        "id": "prediction:84bbdce3a90f152e",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 97,93 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 96,90 TL → Tahmini: 97,93 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:096f8774d922659c",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,23 TL)",
@@ -9360,19 +9370,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:952295a7712497e7",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,05 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,80 TL → Tahmini: 73,05 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "OSMANIYE": [
+      {
+        "id": "prediction:551f310792938f6c",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,13 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,10 TL → Tahmini: 98,13 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:efd57ed431a0c760",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,33 TL)",
@@ -9482,19 +9492,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:5b84a6588890db1e",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,15 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,90 TL → Tahmini: 73,15 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "RIZE": [
+      {
+        "id": "prediction:65efc0decff55cb0",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,13 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,10 TL → Tahmini: 98,13 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:0e509faa658aca66",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,33 TL)",
@@ -9604,19 +9614,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:ad20b729f8dc31bd",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,15 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,90 TL → Tahmini: 73,15 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "SAKARYA": [
+      {
+        "id": "prediction:d2717571b5bd87c4",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 96,93 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 95,90 TL → Tahmini: 96,93 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:711cc9938028cb78",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 72,33 TL)",
@@ -9726,19 +9736,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:856d1b3558af7508",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 72,15 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 71,90 TL → Tahmini: 72,15 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "SAMSUN": [
+      {
+        "id": "prediction:1b695f6df8bf159f",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 97,93 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 96,90 TL → Tahmini: 97,93 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:d42f79d033e36567",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,23 TL)",
@@ -9848,19 +9858,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:24025f30d727e7d4",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,05 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,80 TL → Tahmini: 73,05 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "SANLIURFA": [
+      {
+        "id": "prediction:ff0fd0c660c6db5a",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,53 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,50 TL → Tahmini: 98,53 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:1e82d69a388c49bd",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,73 TL)",
@@ -9970,19 +9980,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:d84ca838074fd275",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,55 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,30 TL → Tahmini: 73,55 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "SIIRT": [
+      {
+        "id": "prediction:1c20962205778aa6",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 99,03 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 98,00 TL → Tahmini: 99,03 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:286a1de3fefa62a7",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 74,13 TL)",
@@ -10092,19 +10102,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:d494eacaae20af47",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,95 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,70 TL → Tahmini: 73,95 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "SINOP": [
+      {
+        "id": "prediction:c844567d01ce1e98",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,03 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,00 TL → Tahmini: 98,03 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:9d2f52e80b7b8b00",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,33 TL)",
@@ -10214,19 +10224,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:07d0f53cb34719ad",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,15 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,90 TL → Tahmini: 73,15 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "SIRNAK": [
+      {
+        "id": "prediction:5f3bfe1c8349042a",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 99,03 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 98,00 TL → Tahmini: 99,03 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:9582573cb9801e35",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 74,13 TL)",
@@ -10336,19 +10346,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:eadaee87657a1073",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,95 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,70 TL → Tahmini: 73,95 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "SIVAS": [
+      {
+        "id": "prediction:71934432e6d778fb",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,43 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,40 TL → Tahmini: 98,43 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:19b7485ccc247437",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,63 TL)",
@@ -10458,19 +10468,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:ba2d43fd6727d820",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,45 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,20 TL → Tahmini: 73,45 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "TEKIRDAG": [
+      {
+        "id": "prediction:544480ad9b916238",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 95,15 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 96,00 TL → Tahmini: 95,15 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:be8ab4f7861f043f",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 72,33 TL)",
@@ -10580,19 +10590,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:862321a35260b741",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 95,34 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 96,00 TL → Tahmini: 95,34 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "TOKAT": [
+      {
+        "id": "prediction:47a98ebcbcdbb533",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 96,05 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 96,90 TL → Tahmini: 96,05 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:5e591e3c0928624a",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,23 TL)",
@@ -10702,19 +10712,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:fad6c739c2f8d3b0",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 96,24 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 96,90 TL → Tahmini: 96,24 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "TRABZON": [
+      {
+        "id": "prediction:0d3866e0ecf1a583",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,13 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,10 TL → Tahmini: 98,13 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:eac8037dde67edc0",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,33 TL)",
@@ -10824,19 +10834,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:5be991d3655e86d6",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,15 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,90 TL → Tahmini: 73,15 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "TUNCELI": [
+      {
+        "id": "prediction:216944e9cffbd943",
+        "title": "[Tahmin] Motorin · -0,85 TL indirim yönünde (tahmini 97,15 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,85 TL</strong> (indirim yönünde).</p><p>Güncel: 98,00 TL → Tahmini: 97,15 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:39aaf91203e8eafd",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 74,23 TL)",
@@ -10946,19 +10956,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:aa02b3f87bd1f048",
-        "title": "[Tahmin] Motorin · -0,66 TL indirim yönünde (tahmini 97,34 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-0,66 TL</strong> (indirim yönünde).</p><p>Güncel: 98,00 TL → Tahmini: 97,34 TL</p><p>Baz maliyet: 57,52 TL/L (07.11.2026 03:41)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "USAK": [
+      {
+        "id": "prediction:6a3b749711c74363",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,23 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,20 TL → Tahmini: 98,23 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:2e0e32f93d2a7f4c",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,43 TL)",
@@ -11068,19 +11078,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:a913419ec5fc2acb",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,25 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,00 TL → Tahmini: 73,25 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "VAN": [
+      {
+        "id": "prediction:eab618b3c07b4c46",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 99,03 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 98,00 TL → Tahmini: 99,03 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:617131fd935516ea",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 74,23 TL)",
@@ -11190,19 +11200,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:68beb8745e662536",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 74,05 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 73,80 TL → Tahmini: 74,05 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "YALOVA": [
+      {
+        "id": "prediction:b3be84c10a548cf0",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 96,93 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 95,90 TL → Tahmini: 96,93 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:31e93f09ff1d2f07",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 72,33 TL)",
@@ -11312,19 +11322,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:bbaa339bb34638e8",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 72,15 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 71,90 TL → Tahmini: 72,15 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "YOZGAT": [
+      {
+        "id": "prediction:7c236e4fbf2e6bd8",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 98,03 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 97,00 TL → Tahmini: 98,03 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:af090e3beaff9ad4",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 73,23 TL)",
@@ -11434,19 +11444,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:06d02f6bbb2bb4ed",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 73,05 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,80 TL → Tahmini: 73,05 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ZONGULDAK": [
+      {
+        "id": "prediction:5c2e1e06781ba76f",
+        "title": "[Tahmin] Motorin · +1,03 TL zam yönünde (tahmini 97,43 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,03 TL</strong> (zam yönünde).</p><p>Güncel: 96,40 TL → Tahmini: 97,43 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,81 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,37; Brent: 95,22 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-16T05:37:00.820204+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "prediction:a0476d2bb7e64231",
         "title": "[Tahmin] Benzin · +0,43 TL zam yönünde (tahmini 72,83 TL)",
@@ -11553,16 +11563,6 @@
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
         "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>+1,22 TL</strong> (zam yönünde).</p><p>Güncel: 96,40 TL → Tahmini: 97,62 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 56,97 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,27; Brent: 95,77 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
         "published": "2026-11-13T01:38:11.421078+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:cf8ee68ce0e02a0a",
-        "title": "[Tahmin] Benzin · +0,25 TL zam yönünde (tahmini 72,65 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>+0,25 TL</strong> (zam yönünde).</p><p>Güncel: 72,40 TL → Tahmini: 72,65 TL</p><p>Baz maliyet: 34,08 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 34,29 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,25; Brent: 93,46 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-12T19:39:21.434526+03:00",
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
@@ -11706,170 +11706,6 @@
     "benzin|indirim|2026-11-12|confirmed": "2026-11-12T09:36:12+03:00"
   },
   "prediction_items": {
-    "ADANA|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ADANA|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ADIYAMAN|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ADIYAMAN|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "AFYON|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "AFYON|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "AGRI|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "AGRI|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "AKSARAY|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "AKSARAY|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "AMASYA|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "AMASYA|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ANKARA|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ANKARA|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ANTALYA|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ANTALYA|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ARDAHAN|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ARDAHAN|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ARTVIN|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ARTVIN|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "AYDIN|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "AYDIN|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "BALIKESIR|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "BALIKESIR|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "BARTIN|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "BARTIN|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "BATMAN|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "BATMAN|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "BAYBURT|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "BAYBURT|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "BILECIK|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "BILECIK|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "BINGOL|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "BINGOL|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "BITLIS|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "BITLIS|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "BOLU|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "BOLU|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "BURDUR|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "BURDUR|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "BURSA|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "BURSA|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "CANAKKALE|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "CANAKKALE|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "CANKIRI|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "CANKIRI|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "CORUM|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "CORUM|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "DENIZLI|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "DENIZLI|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "DIYARBAKIR|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "DIYARBAKIR|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "DUZCE|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "DUZCE|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "EDIRNE|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "EDIRNE|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ELAZIG|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ELAZIG|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ERZINCAN|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ERZINCAN|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ERZURUM|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ERZURUM|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ESKISEHIR|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ESKISEHIR|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "GAZIANTEP|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "GAZIANTEP|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "GIRESUN|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "GIRESUN|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "GUMUSHANE|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "GUMUSHANE|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "HAKKARI|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "HAKKARI|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "HATAY|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "HATAY|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "IGDIR|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "IGDIR|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ISPARTA|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ISPARTA|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ISTANBUL (ANADOLU)|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ISTANBUL (ANADOLU)|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ISTANBUL (AVRUPA)|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ISTANBUL (AVRUPA)|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "IZMIR|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "IZMIR|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KAHRAMANMARAS|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KAHRAMANMARAS|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KARABUK|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KARABUK|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KARAMAN|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KARAMAN|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KARS|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KARS|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KASTAMONU|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KASTAMONU|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KAYSERI|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KAYSERI|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KILIS|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KILIS|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KIRIKKALE|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KIRIKKALE|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KIRKLARELI|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KIRKLARELI|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KIRSEHIR|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KIRSEHIR|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KOCAELI|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KOCAELI|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KONYA|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KONYA|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KUTAHYA|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "KUTAHYA|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "MALATYA|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "MALATYA|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "MANISA|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "MANISA|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "MARDIN|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "MARDIN|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "MERSIN|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "MERSIN|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "MUGLA|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "MUGLA|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "MUS|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "MUS|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "NEVSEHIR|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "NEVSEHIR|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "NIGDE|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "NIGDE|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ORDU|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ORDU|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "OSMANIYE|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "OSMANIYE|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "RIZE|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "RIZE|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "SAKARYA|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "SAKARYA|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "SAMSUN|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "SAMSUN|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "SANLIURFA|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "SANLIURFA|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "SIIRT|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "SIIRT|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "SINOP|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "SINOP|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "SIRNAK|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "SIRNAK|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "SIVAS|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "SIVAS|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "TEKIRDAG|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "TEKIRDAG|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "TOKAT|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "TOKAT|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "TRABZON|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "TRABZON|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "TUNCELI|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "TUNCELI|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "USAK|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "USAK|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "VAN|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "VAN|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "YALOVA|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "YALOVA|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "YOZGAT|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "YOZGAT|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ZONGULDAK|benzin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
-    "ZONGULDAK|motorin|2026-11-02|indirim|1.0": "2026-11-02T03:34:51.207557+03:00",
     "ADANA|benzin|2026-11-02|indirim|2.0": "2026-11-02T10:27:58.108519+03:00",
     "ADANA|motorin|2026-11-02|indirim|2.0": "2026-11-02T10:27:58.108519+03:00",
     "ADIYAMAN|benzin|2026-11-02|indirim|2.0": "2026-11-02T10:27:58.108519+03:00",
@@ -16152,7 +15988,89 @@
     "YOZGAT|benzin|2026-11-16|zam|0.5": "2026-11-16T01:36:38.176263+03:00",
     "YOZGAT|motorin|2026-11-16|zam|1.0": "2026-11-16T01:36:38.176263+03:00",
     "ZONGULDAK|benzin|2026-11-16|zam|0.5": "2026-11-16T01:36:38.176263+03:00",
-    "ZONGULDAK|motorin|2026-11-16|zam|1.0": "2026-11-16T01:36:38.176263+03:00"
+    "ZONGULDAK|motorin|2026-11-16|zam|1.0": "2026-11-16T01:36:38.176263+03:00",
+    "ADANA|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "ADIYAMAN|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "AFYON|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "AGRI|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "AKSARAY|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "AMASYA|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "ANKARA|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "ANTALYA|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "ARDAHAN|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "ARTVIN|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "AYDIN|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "BALIKESIR|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "BARTIN|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "BATMAN|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "BAYBURT|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "BILECIK|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "BINGOL|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "BITLIS|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "BOLU|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "BURDUR|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "BURSA|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "CANAKKALE|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "CANKIRI|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "CORUM|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "DENIZLI|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "DIYARBAKIR|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "DUZCE|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "EDIRNE|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "ELAZIG|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "ERZINCAN|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "ERZURUM|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "ESKISEHIR|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "GAZIANTEP|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "GIRESUN|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "GUMUSHANE|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "HAKKARI|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "HATAY|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "IGDIR|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "ISPARTA|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "ISTANBUL (ANADOLU)|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "ISTANBUL (AVRUPA)|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "IZMIR|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "KAHRAMANMARAS|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "KARABUK|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "KARAMAN|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "KARS|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "KASTAMONU|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "KAYSERI|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "KILIS|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "KIRIKKALE|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "KIRKLARELI|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "KIRSEHIR|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "KOCAELI|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "KONYA|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "KUTAHYA|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "MALATYA|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "MANISA|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "MARDIN|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "MERSIN|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "MUGLA|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "MUS|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "NEVSEHIR|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "NIGDE|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "ORDU|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "OSMANIYE|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "RIZE|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "SAKARYA|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "SAMSUN|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "SANLIURFA|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "SIIRT|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "SINOP|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "SIRNAK|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "SIVAS|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "TEKIRDAG|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "TOKAT|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "TRABZON|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "TUNCELI|motorin|2026-11-16|indirim|1.0": "2026-11-16T05:37:00.820204+03:00",
+    "USAK|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "VAN|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "YALOVA|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "YOZGAT|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00",
+    "ZONGULDAK|motorin|2026-11-16|zam|1.5": "2026-11-16T05:37:00.820204+03:00"
   },
-  "updated_at": "2026-11-16T01:36:38.176263+03:00"
+  "updated_at": "2026-11-16T05:37:00.820204+03:00"
 }
