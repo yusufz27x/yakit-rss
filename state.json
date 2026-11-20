@@ -1566,6 +1566,16 @@
   "city_items": {
     "ISTANBUL (AVRUPA)": [
       {
+        "id": "prediction:ada28be47432c537",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 70,76 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 71,30 TL → Tahmini: 70,76 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
+      {
         "id": "price:442c60e475bdeea2",
         "title": "[Fiyat] İstanbul (Avrupa) · Motorin 95,30 → 88,80 TL (-6,50 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
@@ -1674,19 +1684,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:fd9c05c1553552aa",
-        "title": "[Fiyat] İstanbul (Avrupa) · Motorin 95,20 → 95,30 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 95,20 TL → <strong>95,30 TL</strong> (+0,10 TL, +0,11%).</p><p>Bölge: İstanbul (Avrupa)<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ADANA": [
+      {
+        "id": "prediction:80f4ade8faa98d05",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,56 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,10 TL → Tahmini: 72,56 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:1dd5403bec4a0091",
         "title": "[Fiyat] Adana · Motorin 97,30 → 90,80 TL (-6,50 TL)",
@@ -1796,19 +1806,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:7f383c6bacce7e9d",
-        "title": "[Fiyat] Adana · Motorin 97,20 → 97,30 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,20 TL → <strong>97,30 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Adana<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ADIYAMAN": [
+      {
+        "id": "prediction:8314a80106436b63",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,96 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,50 TL → Tahmini: 72,96 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:c4ab2252c4bdfb2d",
         "title": "[Fiyat] Adıyaman · Motorin 97,70 → 91,20 TL (-6,50 TL)",
@@ -1918,19 +1928,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:9e0ea8490cc22ce9",
-        "title": "[Fiyat] Adıyaman · Motorin 97,60 → 97,70 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,60 TL → <strong>97,70 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Adıyaman<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "AFYON": [
+      {
+        "id": "prediction:11916c0e6552fe18",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,86 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,40 TL → Tahmini: 72,86 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:d5ebdbc065f860af",
         "title": "[Fiyat] Afyonkarahisar · Motorin 97,60 → 91,20 TL (-6,40 TL)",
@@ -2040,19 +2050,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:a4dd71df00368218",
-        "title": "[Fiyat] Afyonkarahisar · Motorin 97,50 → 97,60 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,50 TL → <strong>97,60 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Afyonkarahisar<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "AGRI": [
+      {
+        "id": "prediction:1cfd514431b42c92",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 73,36 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,90 TL → Tahmini: 73,36 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:103e2de3f5205d6b",
         "title": "[Fiyat] Ağrı · Motorin 98,10 → 91,60 TL (-6,50 TL)",
@@ -2162,19 +2172,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:fda8747cb4d0b63e",
-        "title": "[Fiyat] Ağrı · Motorin 98,00 → 98,10 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 98,00 TL → <strong>98,10 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Ağrı<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "AKSARAY": [
+      {
+        "id": "prediction:d58e1a5d5ddd6307",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,66 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,20 TL → Tahmini: 72,66 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:d590dd10b5a41860",
         "title": "[Fiyat] Aksaray · Motorin 97,40 → 90,90 TL (-6,50 TL)",
@@ -2284,19 +2294,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:cf47775c584b087e",
-        "title": "[Fiyat] Aksaray · Motorin 97,30 → 97,40 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,30 TL → <strong>97,40 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Aksaray<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "AMASYA": [
+      {
+        "id": "prediction:13eeec649d19b82f",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,36 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 72,90 TL → Tahmini: 72,36 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:16cb3f27ae6b6b6e",
         "title": "[Fiyat] Amasya · Motorin 97,00 → 90,50 TL (-6,50 TL)",
@@ -2406,19 +2416,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:bab183aee8ca9ba8",
-        "title": "[Fiyat] Amasya · Motorin 96,90 → 97,00 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 96,90 TL → <strong>97,00 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Amasya<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ANKARA": [
+      {
+        "id": "prediction:9a854f7bdaab1e1f",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 71,76 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 72,30 TL → Tahmini: 71,76 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:a37fb0870a573062",
         "title": "[Fiyat] Ankara · Motorin 96,40 → 89,90 TL (-6,50 TL)",
@@ -2528,19 +2538,19 @@
         "category": "Tahmin",
         "source": "yakit-rss tahmin modeli",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "prediction:20e0d1a4e83f65c3",
-        "title": "[Tahmin] Motorin · -3,39 TL indirim yönünde (tahmini 93,01 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong> için piyasa bazlı tahmin: <strong>-3,39 TL</strong> (indirim yönünde).</p><p>Güncel: 96,40 TL → Tahmini: 93,01 TL</p><p>Baz maliyet: 55,95 TL/L (12.11.2026 03:13)<br>Güncel maliyet: 53,12 TL/L<br>Kaynak: ULSD vadeli; USD/TRY: 50,41; Brent: 92,83 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
-        "published": "2026-11-17T15:22:58.636618+03:00",
-        "category": "Tahmin",
-        "source": "yakit-rss tahmin modeli",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ANTALYA": [
+      {
+        "id": "prediction:93130fcf30917b73",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,96 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,50 TL → Tahmini: 72,96 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:79339424d5cc7502",
         "title": "[Fiyat] Antalya · Motorin 97,70 → 91,30 TL (-6,40 TL)",
@@ -2650,19 +2660,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:d442018a1db93cf9",
-        "title": "[Fiyat] Antalya · Motorin 97,60 → 97,70 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,60 TL → <strong>97,70 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Antalya<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ARDAHAN": [
+      {
+        "id": "prediction:5091ed55d9d6d239",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,86 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,40 TL → Tahmini: 72,86 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:1a1c721631437999",
         "title": "[Fiyat] Ardahan · Motorin 97,60 → 91,10 TL (-6,50 TL)",
@@ -2772,19 +2782,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:2975103054506c80",
-        "title": "[Fiyat] Ardahan · Motorin 97,50 → 97,60 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,50 TL → <strong>97,60 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Ardahan<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ARTVIN": [
+      {
+        "id": "prediction:b15ee1fda52af275",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,66 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,20 TL → Tahmini: 72,66 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:311ab82c08deb110",
         "title": "[Fiyat] Artvin · Motorin 97,40 → 90,90 TL (-6,50 TL)",
@@ -2894,19 +2904,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:34da9d46e6f89b2e",
-        "title": "[Fiyat] Artvin · Motorin 97,30 → 97,40 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,30 TL → <strong>97,40 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Artvin<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "AYDIN": [
+      {
+        "id": "prediction:fd4e27aa7e669d90",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,26 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 72,80 TL → Tahmini: 72,26 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:8b43980cc59739c1",
         "title": "[Fiyat] Aydın · Motorin 97,00 → 90,50 TL (-6,50 TL)",
@@ -3016,19 +3026,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:e1599529869e4709",
-        "title": "[Fiyat] Aydın · Motorin 96,90 → 97,00 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 96,90 TL → <strong>97,00 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Aydın<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "BALIKESIR": [
+      {
+        "id": "prediction:77bda19aff341844",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,36 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 72,90 TL → Tahmini: 72,36 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:ccb36d899fa24a05",
         "title": "[Fiyat] Balıkesir · Motorin 97,10 → 90,60 TL (-6,50 TL)",
@@ -3134,16 +3144,6 @@
         "title": "[Fiyat] Balıkesir · Benzin 72,80 → 72,90 TL (+0,10 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
         "description": "<p><strong>Benzin</strong>: 72,80 TL → <strong>72,90 TL</strong> (+0,10 TL, +0,14%).</p><p>Bölge: Balıkesir<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:ae506e0087c80696",
-        "title": "[Fiyat] Balıkesir · Motorin 97,00 → 97,10 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,00 TL → <strong>97,10 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Balıkesir<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
         "published": "2026-11-18T00:14:40.853164+03:00",
         "category": "Fiyat",
         "source": "Petrol Ofisi",
@@ -3274,6 +3274,16 @@
     ],
     "BATMAN": [
       {
+        "id": "prediction:e61b235b41c9808d",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 73,16 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,70 TL → Tahmini: 73,16 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
+      {
         "id": "price:89fb916e3f1f1847",
         "title": "[Fiyat] Batman · Motorin 98,00 → 91,50 TL (-6,50 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
@@ -3382,19 +3392,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:0254805d7b83aa2a",
-        "title": "[Fiyat] Batman · Motorin 97,90 → 98,00 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,90 TL → <strong>98,00 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Batman<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "BAYBURT": [
+      {
+        "id": "prediction:81b116b82172f194",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,66 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,20 TL → Tahmini: 72,66 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:ed7f3c3ec7dab46a",
         "title": "[Fiyat] Bayburt · Motorin 97,40 → 90,90 TL (-6,50 TL)",
@@ -3500,16 +3510,6 @@
         "title": "[Fiyat] Bayburt · Benzin 73,10 → 73,20 TL (+0,10 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
         "description": "<p><strong>Benzin</strong>: 73,10 TL → <strong>73,20 TL</strong> (+0,10 TL, +0,14%).</p><p>Bölge: Bayburt<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:f3b8afb36ff1f737",
-        "title": "[Fiyat] Bayburt · Motorin 97,30 → 97,40 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,30 TL → <strong>97,40 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Bayburt<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
         "published": "2026-11-18T00:14:40.853164+03:00",
         "category": "Fiyat",
         "source": "Petrol Ofisi",
@@ -3640,6 +3640,16 @@
     ],
     "BINGOL": [
       {
+        "id": "prediction:91e8baa5de2506a0",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 73,26 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,80 TL → Tahmini: 73,26 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
+      {
         "id": "price:6855b3b2d4660696",
         "title": "[Fiyat] Bingöl · Motorin 98,10 → 91,60 TL (-6,50 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
@@ -3744,16 +3754,6 @@
         "title": "[Fiyat] Bingöl · Benzin 73,70 → 73,80 TL (+0,10 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
         "description": "<p><strong>Benzin</strong>: 73,70 TL → <strong>73,80 TL</strong> (+0,10 TL, +0,14%).</p><p>Bölge: Bingöl<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:baa556654fc24401",
-        "title": "[Fiyat] Bingöl · Motorin 98,00 → 98,10 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 98,00 TL → <strong>98,10 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Bingöl<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
         "published": "2026-11-18T00:14:40.853164+03:00",
         "category": "Fiyat",
         "source": "Petrol Ofisi",
@@ -4006,6 +4006,16 @@
     ],
     "BURDUR": [
       {
+        "id": "prediction:452089141c1e61cf",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,76 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,30 TL → Tahmini: 72,76 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
+      {
         "id": "price:0ea26cce75200d48",
         "title": "[Fiyat] Burdur · Motorin 97,50 → 91,10 TL (-6,40 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
@@ -4110,16 +4120,6 @@
         "title": "[Fiyat] Burdur · Benzin 73,20 → 73,30 TL (+0,10 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
         "description": "<p><strong>Benzin</strong>: 73,20 TL → <strong>73,30 TL</strong> (+0,10 TL, +0,14%).</p><p>Bölge: Burdur<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:d3e5178f78914b52",
-        "title": "[Fiyat] Burdur · Motorin 97,40 → 97,50 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,40 TL → <strong>97,50 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Burdur<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
         "published": "2026-11-18T00:14:40.853164+03:00",
         "category": "Fiyat",
         "source": "Petrol Ofisi",
@@ -4250,6 +4250,16 @@
     ],
     "CANAKKALE": [
       {
+        "id": "prediction:5c7de7cc81fb831e",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,36 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 72,90 TL → Tahmini: 72,36 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
+      {
         "id": "price:06800b62ce8ab384",
         "title": "[Fiyat] Çanakkale · Motorin 97,10 → 90,60 TL (-6,50 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
@@ -4358,19 +4368,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:3e81efd66130d25c",
-        "title": "[Fiyat] Çanakkale · Motorin 97,00 → 97,10 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,00 TL → <strong>97,10 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Çanakkale<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "CANKIRI": [
+      {
+        "id": "prediction:4d553c90e56da690",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,16 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 72,70 TL → Tahmini: 72,16 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:cfca2b01ae49b8b0",
         "title": "[Fiyat] Çankırı · Motorin 96,90 → 90,40 TL (-6,50 TL)",
@@ -4480,19 +4490,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:6a4025752a150371",
-        "title": "[Fiyat] Çankırı · Motorin 96,80 → 96,90 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 96,80 TL → <strong>96,90 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Çankırı<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "CORUM": [
+      {
+        "id": "prediction:93eb7586e4368065",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,36 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 72,90 TL → Tahmini: 72,36 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:b51000d6a2fe3ddd",
         "title": "[Fiyat] Çorum · Motorin 97,10 → 90,60 TL (-6,50 TL)",
@@ -4602,19 +4612,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:17fcdca973bc52b9",
-        "title": "[Fiyat] Çorum · Motorin 97,00 → 97,10 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,00 TL → <strong>97,10 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Çorum<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "DENIZLI": [
+      {
+        "id": "prediction:09ed44743abbf397",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,56 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,10 TL → Tahmini: 72,56 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:c0b492c564ee4e82",
         "title": "[Fiyat] Denizli · Motorin 97,30 → 90,80 TL (-6,50 TL)",
@@ -4724,19 +4734,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:6fed26ec269ec59d",
-        "title": "[Fiyat] Denizli · Motorin 97,20 → 97,30 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,20 TL → <strong>97,30 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Denizli<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "DIYARBAKIR": [
+      {
+        "id": "prediction:bf49eb1961562088",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 73,16 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,70 TL → Tahmini: 73,16 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:4be400635861bfb0",
         "title": "[Fiyat] Diyarbakır · Motorin 98,00 → 91,50 TL (-6,50 TL)",
@@ -4842,16 +4852,6 @@
         "title": "[Fiyat] Diyarbakır · Benzin 73,60 → 73,70 TL (+0,10 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
         "description": "<p><strong>Benzin</strong>: 73,60 TL → <strong>73,70 TL</strong> (+0,10 TL, +0,14%).</p><p>Bölge: Diyarbakır<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:58dd84f6dfb558e2",
-        "title": "[Fiyat] Diyarbakır · Motorin 97,90 → 98,00 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,90 TL → <strong>98,00 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Diyarbakır<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
         "published": "2026-11-18T00:14:40.853164+03:00",
         "category": "Fiyat",
         "source": "Petrol Ofisi",
@@ -4982,6 +4982,16 @@
     ],
     "EDIRNE": [
       {
+        "id": "prediction:55712b851deee80e",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 71,86 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 72,40 TL → Tahmini: 71,86 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
+      {
         "id": "price:b2a3a54b40118656",
         "title": "[Fiyat] Edirne · Motorin 96,50 → 90,10 TL (-6,40 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
@@ -5086,16 +5096,6 @@
         "title": "[Fiyat] Edirne · Benzin 72,30 → 72,40 TL (+0,10 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
         "description": "<p><strong>Benzin</strong>: 72,30 TL → <strong>72,40 TL</strong> (+0,10 TL, +0,14%).</p><p>Bölge: Edirne<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:48752582e2b69abe",
-        "title": "[Fiyat] Edirne · Motorin 96,40 → 96,50 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 96,40 TL → <strong>96,50 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Edirne<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
         "published": "2026-11-18T00:14:40.853164+03:00",
         "category": "Fiyat",
         "source": "Petrol Ofisi",
@@ -5226,6 +5226,16 @@
     ],
     "ERZINCAN": [
       {
+        "id": "prediction:084cd2a8139e9297",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,76 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,30 TL → Tahmini: 72,76 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
+      {
         "id": "price:3aa5d2a958979768",
         "title": "[Fiyat] Erzincan · Motorin 97,50 → 91,00 TL (-6,50 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
@@ -5334,19 +5344,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:b390679289252433",
-        "title": "[Fiyat] Erzincan · Motorin 97,40 → 97,50 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,40 TL → <strong>97,50 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Erzincan<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ERZURUM": [
+      {
+        "id": "prediction:321b620c763b4dee",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,76 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,30 TL → Tahmini: 72,76 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:9a837e3ddc457965",
         "title": "[Fiyat] Erzurum · Motorin 97,50 → 91,00 TL (-6,50 TL)",
@@ -5452,16 +5462,6 @@
         "title": "[Fiyat] Erzurum · Benzin 73,20 → 73,30 TL (+0,10 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
         "description": "<p><strong>Benzin</strong>: 73,20 TL → <strong>73,30 TL</strong> (+0,10 TL, +0,14%).</p><p>Bölge: Erzurum<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:f8d67c5ecd459781",
-        "title": "[Fiyat] Erzurum · Motorin 97,40 → 97,50 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,40 TL → <strong>97,50 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Erzurum<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
         "published": "2026-11-18T00:14:40.853164+03:00",
         "category": "Fiyat",
         "source": "Petrol Ofisi",
@@ -5592,6 +5592,16 @@
     ],
     "GAZIANTEP": [
       {
+        "id": "prediction:dde32cc29580e07e",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,66 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,20 TL → Tahmini: 72,66 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
+      {
         "id": "price:f9a8b3dd40eabaf9",
         "title": "[Fiyat] Gaziantep · Motorin 97,40 → 90,90 TL (-6,50 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
@@ -5700,19 +5710,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:a0c946a87dbbb55d",
-        "title": "[Fiyat] Gaziantep · Motorin 97,30 → 97,40 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,30 TL → <strong>97,40 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Gaziantep<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "GIRESUN": [
+      {
+        "id": "prediction:b0e2fc6592884644",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,56 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,10 TL → Tahmini: 72,56 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:3e27c86bb0ef8731",
         "title": "[Fiyat] Giresun · Motorin 97,30 → 90,80 TL (-6,50 TL)",
@@ -5822,19 +5832,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:1e749b0b231d8dc1",
-        "title": "[Fiyat] Giresun · Motorin 97,20 → 97,30 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,20 TL → <strong>97,30 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Giresun<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "GUMUSHANE": [
+      {
+        "id": "prediction:715722061cc0df40",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,46 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,00 TL → Tahmini: 72,46 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:78fba8e30e39f03f",
         "title": "[Fiyat] Gümüşhane · Motorin 97,20 → 90,70 TL (-6,50 TL)",
@@ -5940,16 +5950,6 @@
         "title": "[Fiyat] Gümüşhane · Benzin 72,90 → 73,00 TL (+0,10 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
         "description": "<p><strong>Benzin</strong>: 72,90 TL → <strong>73,00 TL</strong> (+0,10 TL, +0,14%).</p><p>Bölge: Gümüşhane<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:eaf8d6515d43acee",
-        "title": "[Fiyat] Gümüşhane · Motorin 97,10 → 97,20 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,10 TL → <strong>97,20 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Gümüşhane<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
         "published": "2026-11-18T00:14:40.853164+03:00",
         "category": "Fiyat",
         "source": "Petrol Ofisi",
@@ -6080,6 +6080,16 @@
     ],
     "HATAY": [
       {
+        "id": "prediction:2c4390653c9d1b65",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,46 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,00 TL → Tahmini: 72,46 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
+      {
         "id": "price:9a64313919240f0e",
         "title": "[Fiyat] Hatay · Motorin 97,20 → 90,70 TL (-6,50 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
@@ -6188,19 +6198,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:239016cf3f5583d3",
-        "title": "[Fiyat] Hatay · Motorin 97,10 → 97,20 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,10 TL → <strong>97,20 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Hatay<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "IGDIR": [
+      {
+        "id": "prediction:1d657726d083f314",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 73,36 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,90 TL → Tahmini: 73,36 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:8a89963eb7b8d1c6",
         "title": "[Fiyat] Iğdır · Motorin 98,10 → 91,60 TL (-6,50 TL)",
@@ -6310,19 +6320,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:9187b271e5edca6c",
-        "title": "[Fiyat] Iğdır · Motorin 98,00 → 98,10 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 98,00 TL → <strong>98,10 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Iğdır<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ISPARTA": [
+      {
+        "id": "prediction:e16eb8461bc5b6ee",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,86 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,40 TL → Tahmini: 72,86 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:0a68dcd9b1366c66",
         "title": "[Fiyat] Isparta · Motorin 97,60 → 91,20 TL (-6,40 TL)",
@@ -6432,19 +6442,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:ab909656b25ce972",
-        "title": "[Fiyat] Isparta · Motorin 97,50 → 97,60 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,50 TL → <strong>97,60 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Isparta<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ISTANBUL (ANADOLU)": [
+      {
+        "id": "prediction:e30ebfa0eec357ff",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 70,56 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 71,10 TL → Tahmini: 70,56 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:7599e194ed5bf0b6",
         "title": "[Fiyat] İstanbul (Anadolu) · Motorin 95,20 → 88,70 TL (-6,50 TL)",
@@ -6554,19 +6564,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:0c09411728c287c0",
-        "title": "[Fiyat] İstanbul (Anadolu) · Motorin 95,10 → 95,20 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 95,10 TL → <strong>95,20 TL</strong> (+0,10 TL, +0,11%).</p><p>Bölge: İstanbul (Anadolu)<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "IZMIR": [
+      {
+        "id": "prediction:344d443a1634954e",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 71,96 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 72,50 TL → Tahmini: 71,96 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:675490f0a21fc9e0",
         "title": "[Fiyat] İzmir · Motorin 96,70 → 90,20 TL (-6,50 TL)",
@@ -6676,19 +6686,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:8eb48d40b3d38176",
-        "title": "[Fiyat] İzmir · Motorin 96,60 → 96,70 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 96,60 TL → <strong>96,70 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: İzmir<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KAHRAMANMARAS": [
+      {
+        "id": "prediction:4b05a261315d021c",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,76 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,30 TL → Tahmini: 72,76 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:f666fab7a567a86f",
         "title": "[Fiyat] Kahramanmaraş · Motorin 97,50 → 91,00 TL (-6,50 TL)",
@@ -6794,16 +6804,6 @@
         "title": "[Fiyat] Kahramanmaraş · Benzin 73,20 → 73,30 TL (+0,10 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
         "description": "<p><strong>Benzin</strong>: 73,20 TL → <strong>73,30 TL</strong> (+0,10 TL, +0,14%).</p><p>Bölge: Kahramanmaraş<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:773ec9f4d61588d3",
-        "title": "[Fiyat] Kahramanmaraş · Motorin 97,40 → 97,50 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,40 TL → <strong>97,50 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Kahramanmaraş<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
         "published": "2026-11-18T00:14:40.853164+03:00",
         "category": "Fiyat",
         "source": "Petrol Ofisi",
@@ -6934,6 +6934,16 @@
     ],
     "KARAMAN": [
       {
+        "id": "prediction:b36c1c02030eef2c",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,66 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,20 TL → Tahmini: 72,66 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
+      {
         "id": "price:86d71d2dd7d65aee",
         "title": "[Fiyat] Karaman · Motorin 97,40 → 90,90 TL (-6,50 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
@@ -7042,19 +7052,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:e69cd97fdd6404e5",
-        "title": "[Fiyat] Karaman · Motorin 97,30 → 97,40 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,30 TL → <strong>97,40 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Karaman<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KARS": [
+      {
+        "id": "prediction:49d91d7500b7a2fb",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,86 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,40 TL → Tahmini: 72,86 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:ad00be99c396c878",
         "title": "[Fiyat] Kars · Motorin 97,60 → 91,10 TL (-6,50 TL)",
@@ -7164,19 +7174,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:ff62868b82757be3",
-        "title": "[Fiyat] Kars · Motorin 97,50 → 97,60 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,50 TL → <strong>97,60 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Kars<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KASTAMONU": [
+      {
+        "id": "prediction:7249af6bae3ad571",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,46 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,00 TL → Tahmini: 72,46 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:6681b9302f08e5e6",
         "title": "[Fiyat] Kastamonu · Motorin 97,20 → 90,70 TL (-6,50 TL)",
@@ -7286,19 +7296,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:10dad9f5c56c54ea",
-        "title": "[Fiyat] Kastamonu · Motorin 97,10 → 97,20 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,10 TL → <strong>97,20 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Kastamonu<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KAYSERI": [
+      {
+        "id": "prediction:c0ca0ece00cf20a5",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,76 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,30 TL → Tahmini: 72,76 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:8765d5e6ffd59a84",
         "title": "[Fiyat] Kayseri · Motorin 97,50 → 91,00 TL (-6,50 TL)",
@@ -7408,19 +7418,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:379902692090ec6d",
-        "title": "[Fiyat] Kayseri · Motorin 97,40 → 97,50 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,40 TL → <strong>97,50 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Kayseri<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KILIS": [
+      {
+        "id": "prediction:13228f1f56ab4993",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,46 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,00 TL → Tahmini: 72,46 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:cfd0ceb51f9370de",
         "title": "[Fiyat] Kilis · Motorin 97,20 → 90,70 TL (-6,50 TL)",
@@ -7530,19 +7540,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:884d2865f0acafd1",
-        "title": "[Fiyat] Kilis · Motorin 97,10 → 97,20 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,10 TL → <strong>97,20 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Kilis<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KIRIKKALE": [
+      {
+        "id": "prediction:63645bd25cf9bc34",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,06 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 72,60 TL → Tahmini: 72,06 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:8a8edcd81f98de00",
         "title": "[Fiyat] Kırıkkale · Motorin 96,80 → 90,30 TL (-6,50 TL)",
@@ -7652,19 +7662,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:169cfb769e261526",
-        "title": "[Fiyat] Kırıkkale · Motorin 96,70 → 96,80 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 96,70 TL → <strong>96,80 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Kırıkkale<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KIRKLARELI": [
+      {
+        "id": "prediction:9d17a5d98c408a29",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 71,86 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 72,40 TL → Tahmini: 71,86 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:615ebd1c525da510",
         "title": "[Fiyat] Kırklareli · Motorin 96,50 → 90,10 TL (-6,40 TL)",
@@ -7774,19 +7784,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:b6517e120ce89f8a",
-        "title": "[Fiyat] Kırklareli · Motorin 96,40 → 96,50 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 96,40 TL → <strong>96,50 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Kırklareli<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "KIRSEHIR": [
+      {
+        "id": "prediction:996d8302a9e1068b",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,06 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 72,60 TL → Tahmini: 72,06 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:454c50dddc21641e",
         "title": "[Fiyat] Kırşehir · Motorin 96,80 → 90,30 TL (-6,50 TL)",
@@ -7892,16 +7902,6 @@
         "title": "[Fiyat] Kırşehir · Benzin 72,50 → 72,60 TL (+0,10 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
         "description": "<p><strong>Benzin</strong>: 72,50 TL → <strong>72,60 TL</strong> (+0,10 TL, +0,14%).</p><p>Bölge: Kırşehir<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:f22ba527e153c1f3",
-        "title": "[Fiyat] Kırşehir · Motorin 96,70 → 96,80 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 96,70 TL → <strong>96,80 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Kırşehir<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
         "published": "2026-11-18T00:14:40.853164+03:00",
         "category": "Fiyat",
         "source": "Petrol Ofisi",
@@ -8276,6 +8276,16 @@
     ],
     "MALATYA": [
       {
+        "id": "prediction:19ae87f5bb313dbf",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,96 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,50 TL → Tahmini: 72,96 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
+      {
         "id": "price:ba27a97cbd8b75e1",
         "title": "[Fiyat] Malatya · Motorin 97,70 → 91,20 TL (-6,50 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
@@ -8384,19 +8394,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:aafb4d6eeac128dc",
-        "title": "[Fiyat] Malatya · Motorin 97,60 → 97,70 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,60 TL → <strong>97,70 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Malatya<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "MANISA": [
+      {
+        "id": "prediction:f95b95beb2ab5853",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,06 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 72,60 TL → Tahmini: 72,06 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:fbb30170a32e0dcd",
         "title": "[Fiyat] Manisa · Motorin 96,80 → 90,30 TL (-6,50 TL)",
@@ -8506,19 +8516,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:76cf780d5dbb2925",
-        "title": "[Fiyat] Manisa · Motorin 96,70 → 96,80 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 96,70 TL → <strong>96,80 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Manisa<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "MARDIN": [
+      {
+        "id": "prediction:1a7c8fc64adcbbed",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 73,16 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,70 TL → Tahmini: 73,16 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:86c31f8943f744f1",
         "title": "[Fiyat] Mardin · Motorin 98,00 → 91,50 TL (-6,50 TL)",
@@ -8628,19 +8638,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:08ee26e12300ef1d",
-        "title": "[Fiyat] Mardin · Motorin 97,90 → 98,00 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,90 TL → <strong>98,00 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Mardin<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "MERSIN": [
+      {
+        "id": "prediction:cc379e7bb5582e2c",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,56 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,10 TL → Tahmini: 72,56 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:5e2d8db891a2c8c7",
         "title": "[Fiyat] Mersin · Motorin 97,30 → 90,80 TL (-6,50 TL)",
@@ -8750,19 +8760,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:70b4493481e2f381",
-        "title": "[Fiyat] Mersin · Motorin 97,20 → 97,30 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,20 TL → <strong>97,30 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Mersin<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "MUGLA": [
+      {
+        "id": "prediction:e6dc5db2b5629926",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,56 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,10 TL → Tahmini: 72,56 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:8ed5869928b9f2fc",
         "title": "[Fiyat] Muğla · Motorin 97,30 → 90,80 TL (-6,50 TL)",
@@ -8872,19 +8882,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:284f822656f2ac30",
-        "title": "[Fiyat] Muğla · Motorin 97,20 → 97,30 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,20 TL → <strong>97,30 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Muğla<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "MUS": [
+      {
+        "id": "prediction:87a5f98b60e801d9",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 73,36 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,90 TL → Tahmini: 73,36 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:911dde4ed2408c44",
         "title": "[Fiyat] Muş · Motorin 98,10 → 91,60 TL (-6,50 TL)",
@@ -8994,19 +9004,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:3cc8831c529f4df8",
-        "title": "[Fiyat] Muş · Motorin 98,00 → 98,10 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 98,00 TL → <strong>98,10 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Muş<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "NEVSEHIR": [
+      {
+        "id": "prediction:5ba086b45a29fb69",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,66 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,20 TL → Tahmini: 72,66 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:744fee30d8150201",
         "title": "[Fiyat] Nevşehir · Motorin 97,40 → 90,90 TL (-6,50 TL)",
@@ -9116,19 +9126,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:5ed83b64019256cf",
-        "title": "[Fiyat] Nevşehir · Motorin 97,30 → 97,40 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,30 TL → <strong>97,40 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Nevşehir<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "NIGDE": [
+      {
+        "id": "prediction:789481f333e0e947",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,56 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,10 TL → Tahmini: 72,56 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:0f4092b060d2ee41",
         "title": "[Fiyat] Niğde · Motorin 97,30 → 90,80 TL (-6,50 TL)",
@@ -9238,19 +9248,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:437259e50ad94719",
-        "title": "[Fiyat] Niğde · Motorin 97,20 → 97,30 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,20 TL → <strong>97,30 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Niğde<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "ORDU": [
+      {
+        "id": "prediction:a7e7a068134019c1",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,36 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 72,90 TL → Tahmini: 72,36 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:e9db8fe9057153aa",
         "title": "[Fiyat] Ordu · Motorin 97,00 → 90,50 TL (-6,50 TL)",
@@ -9360,19 +9370,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:7a6fd89cb11c871b",
-        "title": "[Fiyat] Ordu · Motorin 96,90 → 97,00 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 96,90 TL → <strong>97,00 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Ordu<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "OSMANIYE": [
+      {
+        "id": "prediction:f9e6a620231e0687",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,46 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,00 TL → Tahmini: 72,46 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:c59e5cdc044b1887",
         "title": "[Fiyat] Osmaniye · Motorin 97,20 → 90,70 TL (-6,50 TL)",
@@ -9482,19 +9492,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:beaf4adce89bf6f5",
-        "title": "[Fiyat] Osmaniye · Motorin 97,10 → 97,20 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,10 TL → <strong>97,20 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Osmaniye<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "RIZE": [
+      {
+        "id": "prediction:184d0a33397e4385",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,46 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,00 TL → Tahmini: 72,46 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:342ea29aaa431359",
         "title": "[Fiyat] Rize · Motorin 97,20 → 90,70 TL (-6,50 TL)",
@@ -9600,16 +9610,6 @@
         "title": "[Fiyat] Rize · Benzin 72,90 → 73,00 TL (+0,10 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
         "description": "<p><strong>Benzin</strong>: 72,90 TL → <strong>73,00 TL</strong> (+0,10 TL, +0,14%).</p><p>Bölge: Rize<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:5243933fd73a1aba",
-        "title": "[Fiyat] Rize · Motorin 97,10 → 97,20 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,10 TL → <strong>97,20 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Rize<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
         "published": "2026-11-18T00:14:40.853164+03:00",
         "category": "Fiyat",
         "source": "Petrol Ofisi",
@@ -9740,6 +9740,16 @@
     ],
     "SAMSUN": [
       {
+        "id": "prediction:e5f227f403f4d34a",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,36 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 72,90 TL → Tahmini: 72,36 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
+      {
         "id": "price:883925fd8be59427",
         "title": "[Fiyat] Samsun · Motorin 97,00 → 90,50 TL (-6,50 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
@@ -9848,19 +9858,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:1fdf1b0a9ab28e53",
-        "title": "[Fiyat] Samsun · Motorin 96,90 → 97,00 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 96,90 TL → <strong>97,00 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Samsun<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "SANLIURFA": [
+      {
+        "id": "prediction:909a883dafaa924a",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,86 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,40 TL → Tahmini: 72,86 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:4e33ee9ca5850bf0",
         "title": "[Fiyat] Şanlıurfa · Motorin 97,60 → 91,10 TL (-6,50 TL)",
@@ -9970,19 +9980,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:b407f8937a6505cc",
-        "title": "[Fiyat] Şanlıurfa · Motorin 97,50 → 97,60 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,50 TL → <strong>97,60 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Şanlıurfa<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "SIIRT": [
+      {
+        "id": "prediction:dfad5cef7aa81efe",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 73,26 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,80 TL → Tahmini: 73,26 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:1b0e986f68c46d2b",
         "title": "[Fiyat] Siirt · Motorin 98,10 → 91,60 TL (-6,50 TL)",
@@ -10092,19 +10102,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:35eba86e918d89d3",
-        "title": "[Fiyat] Siirt · Motorin 98,00 → 98,10 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 98,00 TL → <strong>98,10 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Siirt<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "SINOP": [
+      {
+        "id": "prediction:e918e7edc36b73ad",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,46 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,00 TL → Tahmini: 72,46 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:aa2d652055554bcf",
         "title": "[Fiyat] Sinop · Motorin 97,10 → 90,60 TL (-6,50 TL)",
@@ -10214,19 +10224,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:c5e4bac18bcc8423",
-        "title": "[Fiyat] Sinop · Motorin 97,00 → 97,10 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,00 TL → <strong>97,10 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Sinop<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "SIRNAK": [
+      {
+        "id": "prediction:0f1d65b33cfff4bc",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 73,26 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,80 TL → Tahmini: 73,26 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:e6d26fac268901f7",
         "title": "[Fiyat] Şırnak · Motorin 98,10 → 91,60 TL (-6,50 TL)",
@@ -10336,19 +10346,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:0dc24c751a57735c",
-        "title": "[Fiyat] Şırnak · Motorin 98,00 → 98,10 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 98,00 TL → <strong>98,10 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Şırnak<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "SIVAS": [
+      {
+        "id": "prediction:7b7b36e18a38c5c6",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,76 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,30 TL → Tahmini: 72,76 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:23a8190ae07f1e0d",
         "title": "[Fiyat] Sivas · Motorin 97,50 → 91,00 TL (-6,50 TL)",
@@ -10458,19 +10468,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:8d4b2aa7273299e5",
-        "title": "[Fiyat] Sivas · Motorin 97,40 → 97,50 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,40 TL → <strong>97,50 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Sivas<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "TEKIRDAG": [
+      {
+        "id": "prediction:60b623c8bf39e68a",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 71,46 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 72,00 TL → Tahmini: 71,46 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:d153a35a87e52c53",
         "title": "[Fiyat] Tekirdağ · Motorin 96,10 → 89,70 TL (-6,40 TL)",
@@ -10576,16 +10586,6 @@
         "title": "[Fiyat] Tekirdağ · Benzin 71,90 → 72,00 TL (+0,10 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
         "description": "<p><strong>Benzin</strong>: 71,90 TL → <strong>72,00 TL</strong> (+0,10 TL, +0,14%).</p><p>Bölge: Tekirdağ<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:5a9e93e82c31fd0c",
-        "title": "[Fiyat] Tekirdağ · Motorin 96,00 → 96,10 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 96,00 TL → <strong>96,10 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Tekirdağ<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
         "published": "2026-11-18T00:14:40.853164+03:00",
         "category": "Fiyat",
         "source": "Petrol Ofisi",
@@ -10716,6 +10716,16 @@
     ],
     "TRABZON": [
       {
+        "id": "prediction:04c5793739fd8b59",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,46 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,00 TL → Tahmini: 72,46 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
+      {
         "id": "price:f87e32f2fdc63a0c",
         "title": "[Fiyat] Trabzon · Motorin 97,20 → 90,70 TL (-6,50 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
@@ -10824,19 +10834,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:70d2a1c2c65f7cc6",
-        "title": "[Fiyat] Trabzon · Motorin 97,10 → 97,20 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,10 TL → <strong>97,20 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Trabzon<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "TUNCELI": [
+      {
+        "id": "prediction:6c7dda3d509bb6d2",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 73,36 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,90 TL → Tahmini: 73,36 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:3e0c5dbdc60e546b",
         "title": "[Fiyat] Tunceli · Motorin 98,10 → 91,60 TL (-6,50 TL)",
@@ -10946,19 +10956,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:78832ac2aa7fddb6",
-        "title": "[Fiyat] Tunceli · Motorin 98,00 → 98,10 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 98,00 TL → <strong>98,10 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Tunceli<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "USAK": [
+      {
+        "id": "prediction:174f195fc666a47f",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,56 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,10 TL → Tahmini: 72,56 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:97513c3491880f77",
         "title": "[Fiyat] Uşak · Motorin 97,30 → 90,80 TL (-6,50 TL)",
@@ -11068,19 +11078,19 @@
         "category": "Fiyat",
         "source": "Petrol Ofisi",
         "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:9750e0cc5ca70913",
-        "title": "[Fiyat] Uşak · Motorin 97,20 → 97,30 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,20 TL → <strong>97,30 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Uşak<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
       }
     ],
     "VAN": [
+      {
+        "id": "prediction:ff6af08f9993dd5b",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 73,36 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 73,90 TL → Tahmini: 73,36 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
       {
         "id": "price:e94f9599e3b86eda",
         "title": "[Fiyat] Van · Motorin 98,10 → 91,60 TL (-6,50 TL)",
@@ -11186,16 +11196,6 @@
         "title": "[Fiyat] Van · Benzin 73,80 → 73,90 TL (+0,10 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
         "description": "<p><strong>Benzin</strong>: 73,80 TL → <strong>73,90 TL</strong> (+0,10 TL, +0,14%).</p><p>Bölge: Van<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:248aa4233cd81210",
-        "title": "[Fiyat] Van · Motorin 98,00 → 98,10 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 98,00 TL → <strong>98,10 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Van<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
         "published": "2026-11-18T00:14:40.853164+03:00",
         "category": "Fiyat",
         "source": "Petrol Ofisi",
@@ -11326,6 +11326,16 @@
     ],
     "YOZGAT": [
       {
+        "id": "prediction:0bc4c38d3a513bca",
+        "title": "[Tahmin] Benzin · -0,54 TL indirim yönünde (tahmini 72,36 TL)",
+        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
+        "description": "<p><strong>Benzin</strong> için piyasa bazlı tahmin: <strong>-0,54 TL</strong> (indirim yönünde).</p><p>Güncel: 72,90 TL → Tahmini: 72,36 TL</p><p>Baz maliyet: 33,25 TL/L (18.11.2026 00:14)<br>Güncel maliyet: 32,80 TL/L<br>Kaynak: RBOB vadeli; USD/TRY: 50,57; Brent: 88,53 $</p><p><small>Bu bir tahmindir; resmi fiyat değildir. Vergi, marj ve eşel değişiklikleri model dışıdır.</small></p>",
+        "published": "2026-11-20T11:57:10.969594+03:00",
+        "category": "Tahmin",
+        "source": "yakit-rss tahmin modeli",
+        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
+      },
+      {
         "id": "price:ba74835d10cd5181",
         "title": "[Fiyat] Yozgat · Motorin 97,10 → 90,60 TL (-6,50 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
@@ -11430,16 +11440,6 @@
         "title": "[Fiyat] Yozgat · Benzin 72,80 → 72,90 TL (+0,10 TL)",
         "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
         "description": "<p><strong>Benzin</strong>: 72,80 TL → <strong>72,90 TL</strong> (+0,10 TL, +0,14%).</p><p>Bölge: Yozgat<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
-        "published": "2026-11-18T00:14:40.853164+03:00",
-        "category": "Fiyat",
-        "source": "Petrol Ofisi",
-        "source_url": "https://www.petrolofisi.com.tr/en/fuels-prices"
-      },
-      {
-        "id": "price:ab0058a9be4cf2ed",
-        "title": "[Fiyat] Yozgat · Motorin 97,00 → 97,10 TL (+0,10 TL)",
-        "link": "https://www.petrolofisi.com.tr/en/fuels-prices",
-        "description": "<p><strong>Motorin</strong>: 97,00 TL → <strong>97,10 TL</strong> (+0,10 TL, +0,10%).</p><p>Bölge: Yozgat<br>Kaynak: Petrol Ofisi (KDV dahil tavsiye edilen fiyat)<br>Kontrol: 18.11.2026 00:14</p><p><a href=\"https://www.petrolofisi.com.tr/en/fuels-prices\">Fiyat tablosu</a></p>",
         "published": "2026-11-18T00:14:40.853164+03:00",
         "category": "Fiyat",
         "source": "Petrol Ofisi",
@@ -11570,6 +11570,26 @@
     ]
   },
   "news_items": [
+    {
+      "id": "news:62a17e3642383180",
+      "title": "[Haber] Benzine indirim geliyor",
+      "link": "https://www.enerjigunlugu.net/benzine-indirim-geliyor-70650h.htm",
+      "description": "<p><strong>Benzine indirim geliyor</strong></p><p>Kaynak: Enerji Günlüğü · 20.11.2026 10:08</p><p><a href=\"https://www.enerjigunlugu.net/benzine-indirim-geliyor-70650h.htm\">Haberi oku</a></p><p><small>Bu bir haber başlığıdır; fiyat değişikliği kesinleşmemiş veya iptal edilmiş olabilir. Kesinleşen fiyatlar Petrol Ofisi tablosundan ayrıca yayımlanır.</small></p>",
+      "published": "2026-11-20T10:08:00+03:00",
+      "category": "Haber",
+      "source": "Enerji Günlüğü",
+      "source_url": "https://www.enerjigunlugu.net/rss/"
+    },
+    {
+      "id": "news:efc62ad9162bca71",
+      "title": "[Haber] Motorinde 6 lirayı aşan indirim",
+      "link": "https://www.bloomberght.com/motorine-indirim-geldi-3795216",
+      "description": "<p><strong>Motorinde 6 lirayı aşan indirim</strong></p><p>Kaynak: Bloomberg HT · 20.11.2026 07:45</p><p><a href=\"https://www.bloomberght.com/motorine-indirim-geldi-3795216\">Haberi oku</a></p><p><small>Bu bir haber başlığıdır; fiyat değişikliği kesinleşmemiş veya iptal edilmiş olabilir. Kesinleşen fiyatlar Petrol Ofisi tablosundan ayrıca yayımlanır.</small></p>",
+      "published": "2026-11-20T07:45:09+03:00",
+      "category": "Haber",
+      "source": "Bloomberg HT",
+      "source_url": "https://www.bloomberght.com/rss"
+    },
     {
       "id": "news:6bb359fdfafdd80b",
       "title": "[Haber] Motorinde bu gece indirim var",
@@ -11714,91 +11734,11 @@
     "motorin|indirim|2026-11-07|confirmed": "2026-11-07T10:38:44+03:00",
     "benzin|indirim|2026-11-11|other": "2026-11-11T09:50:00+03:00",
     "benzin|indirim|2026-11-12|confirmed": "2026-11-12T09:36:12+03:00",
-    "motorin|indirim|2026-11-19|other": "2026-11-19T09:42:00+03:00"
+    "motorin|indirim|2026-11-19|other": "2026-11-19T09:42:00+03:00",
+    "benzin|indirim|2026-11-20|expected": "2026-11-20T10:08:00+03:00",
+    "motorin|indirim|2026-11-20|other": "2026-11-20T07:45:09+03:00"
   },
   "prediction_items": {
-    "ADANA|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "ADIYAMAN|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "AFYON|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "AGRI|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "AKSARAY|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "AMASYA|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "ANKARA|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "ANTALYA|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "ARDAHAN|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "ARTVIN|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "AYDIN|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "BALIKESIR|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "BARTIN|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "BATMAN|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "BAYBURT|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "BILECIK|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "BINGOL|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "BITLIS|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "BOLU|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "BURDUR|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "BURSA|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "CANAKKALE|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "CANKIRI|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "CORUM|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "DENIZLI|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "DIYARBAKIR|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "DUZCE|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "EDIRNE|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "ELAZIG|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "ERZINCAN|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "ERZURUM|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "ESKISEHIR|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "GAZIANTEP|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "GIRESUN|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "GUMUSHANE|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "HAKKARI|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "HATAY|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "IGDIR|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "ISPARTA|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "ISTANBUL (ANADOLU)|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "ISTANBUL (AVRUPA)|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "IZMIR|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "KAHRAMANMARAS|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "KARABUK|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "KARAMAN|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "KARS|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "KASTAMONU|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "KAYSERI|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "KILIS|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "KIRIKKALE|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "KIRKLARELI|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "KIRSEHIR|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "KOCAELI|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "KONYA|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "KUTAHYA|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "MALATYA|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "MANISA|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "MARDIN|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "MERSIN|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "MUGLA|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "MUS|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "NEVSEHIR|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "NIGDE|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "ORDU|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "OSMANIYE|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "RIZE|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "SAKARYA|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "SAMSUN|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "SANLIURFA|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "SIIRT|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "SINOP|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "SIRNAK|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "SIVAS|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "TEKIRDAG|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "TOKAT|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "TRABZON|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "TUNCELI|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "USAK|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "VAN|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "YALOVA|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "YOZGAT|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
-    "ZONGULDAK|benzin|2026-11-06|zam|0.5": "2026-11-06T09:21:17.232635+03:00",
     "ADANA|benzin|2026-11-06|indirim|0.5": "2026-11-06T17:30:28.723270+03:00",
     "ADANA|motorin|2026-11-06|indirim|0.5": "2026-11-06T17:30:28.723270+03:00",
     "ADIYAMAN|benzin|2026-11-06|indirim|0.5": "2026-11-06T17:30:28.723270+03:00",
@@ -15676,7 +15616,72 @@
     "TUNCELI|benzin|2026-11-20|indirim|0.5": "2026-11-20T04:23:42.482017+03:00",
     "USAK|benzin|2026-11-20|indirim|0.5": "2026-11-20T04:23:42.482017+03:00",
     "VAN|benzin|2026-11-20|indirim|0.5": "2026-11-20T04:23:42.482017+03:00",
-    "YOZGAT|benzin|2026-11-20|indirim|0.5": "2026-11-20T04:23:42.482017+03:00"
+    "YOZGAT|benzin|2026-11-20|indirim|0.5": "2026-11-20T04:23:42.482017+03:00",
+    "ADANA|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "ADIYAMAN|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "AFYON|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "AGRI|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "AKSARAY|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "AMASYA|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "ANKARA|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "ANTALYA|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "ARDAHAN|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "ARTVIN|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "AYDIN|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "BALIKESIR|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "BATMAN|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "BAYBURT|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "BINGOL|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "BURDUR|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "CANAKKALE|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "CANKIRI|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "CORUM|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "DENIZLI|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "DIYARBAKIR|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "EDIRNE|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "ERZINCAN|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "ERZURUM|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "GAZIANTEP|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "GIRESUN|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "GUMUSHANE|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "HATAY|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "IGDIR|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "ISPARTA|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "ISTANBUL (ANADOLU)|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "ISTANBUL (AVRUPA)|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "IZMIR|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "KAHRAMANMARAS|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "KARAMAN|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "KARS|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "KASTAMONU|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "KAYSERI|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "KILIS|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "KIRIKKALE|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "KIRKLARELI|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "KIRSEHIR|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "MALATYA|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "MANISA|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "MARDIN|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "MERSIN|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "MUGLA|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "MUS|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "NEVSEHIR|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "NIGDE|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "ORDU|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "OSMANIYE|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "RIZE|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "SAMSUN|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "SANLIURFA|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "SIIRT|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "SINOP|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "SIRNAK|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "SIVAS|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "TEKIRDAG|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "TRABZON|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "TUNCELI|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "USAK|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "VAN|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00",
+    "YOZGAT|benzin|2026-11-20|indirim|1.0": "2026-11-20T11:57:10.969594+03:00"
   },
-  "updated_at": "2026-11-20T04:23:42.482017+03:00"
+  "updated_at": "2026-11-20T11:57:10.969594+03:00"
 }
