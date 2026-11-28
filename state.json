@@ -11571,6 +11571,16 @@
   },
   "news_items": [
     {
+      "id": "news:fba14cf59ba70f25",
+      "title": "[Haber] Akaryakıt fiyatlarına ÖTV zammı yolda",
+      "link": "https://www.enerjigunlugu.net/akaryakit-fiyatlarina-otv-zammi-yolda-70751h.htm",
+      "description": "<p><strong>Akaryakıt fiyatlarına ÖTV zammı yolda</strong></p><p>Kaynak: Enerji Günlüğü · 28.11.2026 16:23</p><p><a href=\"https://www.enerjigunlugu.net/akaryakit-fiyatlarina-otv-zammi-yolda-70751h.htm\">Haberi oku</a></p><p><small>Bu bir haber başlığıdır; fiyat değişikliği kesinleşmemiş veya iptal edilmiş olabilir. Kesinleşen fiyatlar Petrol Ofisi tablosundan ayrıca yayımlanır.</small></p>",
+      "published": "2026-11-28T16:23:00+03:00",
+      "category": "Haber",
+      "source": "Enerji Günlüğü",
+      "source_url": "https://www.enerjigunlugu.net/rss/"
+    },
+    {
       "id": "news:c643593c4f5f7d98",
       "title": "[Haber] Motorine indirim geldi",
       "link": "https://www.bloomberght.com/motorine-indirim-geldi-3795704",
@@ -11780,7 +11790,8 @@
     "benzin|indirim|2026-11-20|confirmed": "2026-11-20T17:38:00+03:00",
     "motorin|indirim|2026-11-25|expected": "2026-11-25T10:17:00+03:00",
     "motorin|indirim|2026-11-26|confirmed": "2026-11-26T08:19:36+03:00",
-    "motorin|indirim|2026-11-25|other": "2026-11-25T16:05:00+03:00"
+    "motorin|indirim|2026-11-25|other": "2026-11-25T16:05:00+03:00",
+    "akaryakit|zam|2026-11-28|expected": "2026-11-28T16:23:00+03:00"
   },
   "prediction_items": {
     "ADANA|benzin|2026-11-15|zam|0.5": "2026-11-15T02:15:46.042084+03:00",
@@ -15534,5 +15545,5 @@
     "ZONGULDAK|benzin|2026-11-28|indirim|0.5": "2026-11-28T04:48:43.322305+03:00",
     "ZONGULDAK|motorin|2026-11-28|zam|1.0": "2026-11-28T04:48:43.322305+03:00"
   },
-  "updated_at": "2026-11-28T12:55:54.843511+03:00"
+  "updated_at": "2026-11-28T21:01:55.341567+03:00"
 }
